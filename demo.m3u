@@ -11,21 +11,21 @@ http://php.jdshipin.com:8880/xsj.php?id=gzys
 http://php.jdshipin.com:8880/xsj.php?id=gzjs
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://live.fanmingming.com/tv/重温经典.png" group-title="CN",重温经典
 http://php.jdshipin.com:8880/xsj.php?id=cwjd
-#EXTINF:-1 tvg-id="HOY资讯台" tvg-name="HOY资讯台" tvg-logo="https://live.fanmingming.com/tv/HOY资讯台.png" group-title="HK_HOY_TV",HOY资讯台
+#EXTINF:-1 tvg-id="HOY资讯台" tvg-name="HOY资讯台" tvg-logo="https://assets.livednow.com/logo/HOYTV-資訊台.png" group-title="HK_HOY_TV",HOY资讯台
 http://php.jdshipin.com:8880/xsj.php?id=hoy-info
-#EXTINF:-1 tvg-id="HOYTV" tvg-name="HOYTV" tvg-logo="https://live.fanmingming.com/tv/HOYTV.png" group-title="HK_HOY_TV",HOYTV
+#EXTINF:-1 tvg-id="HOYTV" tvg-name="HOYTV" tvg-logo="https://assets.livednow.com/logo/HOYTV.png" group-title="HK_HOY_TV",HOYTV
 http://php.jdshipin.com:8880/xsj.php?id=hoytv
-#EXTINF:-1 tvg-id="HOY国际财经" tvg-name="HOY国际财经" tvg-logo="https://live.fanmingming.com/tv/HOY国际财经.png" group-title="HK_HOY_TV",HOY国际财经
+#EXTINF:-1 tvg-id="HOY国际财经" tvg-name="HOY国际财经" tvg-logo="https://assets.livednow.com/logo/HOY-國際財經台.png" group-title="HK_HOY_TV",HOY国际财经
 http://php.jdshipin.com:8880/xsj.php?id=hoy-ibc
-#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://live.fanmingming.com/tv/ViuTV.png" group-title="HK_NOW_TV",ViuTV
+#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://assets.livednow.com/logo/ViuTV.png" group-title="HK_NOW_TV",ViuTV
 http://php.jdshipin.com:8880/xsj.php?id=viutv
-#EXTINF:-1 tvg-id="ViuTV6" tvg-name="ViuTV6" tvg-logo="https://live.fanmingming.com/tv/ViuTV6.png" group-title="HK_NOW_TV",ViuTV6
+#EXTINF:-1 tvg-id="ViuTV6" tvg-name="ViuTV6" tvg-logo="https://assets.livednow.com/logo/ViuTV-Six.png" group-title="HK_NOW_TV",ViuTV6
 http://php.jdshipin.com:8880/xsj.php?id=viutv6
-#EXTINF:-1 tvg-id="天映频道" tvg-name="天映频道" tvg-logo="https://live.fanmingming.com/tv/天映频道.png" group-title="HK_NOW_TV",天映频道
+#EXTINF:-1 tvg-id="天映經典頻道" tvg-name="天映經典頻道" tvg-logo="https://assets.livednow.com/logo/天映經典頻道.png" group-title="HK_NOW_TV",天映經典頻道
 http://php.jdshipin.com:8880/xsj.php?id=celestial
-#EXTINF:-1 tvg-id="天映经典" tvg-name="天映经典" tvg-logo="https://live.fanmingming.com/tv/天映经典.png" group-title="HK_NOW_TV",天映经典
+#EXTINF:-1 tvg-id="中國電影頻道" tvg-name="中國電影頻道" tvg-logo="https://assets.livednow.com/logo/中國電影頻道.png" group-title="HK_NOW_TV",中國電影頻道
 http://php.jdshipin.com:8880/xsj.php?id=cccm
-#EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-logo=""https://live.fanmingming.com/tv/Thrill.png group-title="HK_NOW_TV",Thrill
+#EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="https://assets.livednow.com/logo/Thrill.png" group-title="HK_NOW_TV",Thrill
 http://php.jdshipin.com:8880/xsj.php?id=thrill
 #EXTINF:-1 tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://live.fanmingming.com/tv/星空卫视.png" group-title="CN",星空卫视
 http://php.jdshipin.com:8880/xsj.php?id=star-xing-kong
@@ -41,11 +41,11 @@ http://php.jdshipin.com:8880/xsj.php?id=lotustv
 http://php.jdshipin.com:8880/xsj.php?id=tdm-information
 #EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://live.fanmingming.com/tv/澳视澳门.png" group-title="CN",澳视澳门
 http://php.jdshipin.com:8880/xsj.php?id=tdm
-#EXTINF:-1 tvg-id="HKC18台" tvg-name="HKC18台" tvg-logo="https://live.fanmingming.com/tv/HKC18台.png" group-title="HK_TV",HKC18台
+#EXTINF:-1 tvg-id="HKC18台" tvg-name="HKC18台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-18.png" group-title="HK_TV",HKC18台
 http://php.jdshipin.com:8880/xsj.php?id=hkc18
-#EXTINF:-1 tvg-id="港台电视31" tvg-name="港台电视31" tvg-logo="https://live.fanmingming.com/tv/港台电视31.png" group-title="HK_TV",港台电视31
+#EXTINF:-1 tvg-id="港台电视31" tvg-name="港台电视31" tvg-logo="https://assets.livednow.com/logo/港台電視-31.png" group-title="HK_TV",港台电视31
 http://php.jdshipin.com:8880/xsj.php?id=rthk31
-#EXTINF:-1 tvg-id="港台电视32" tvg-name="港台电视32" tvg-logo="https://live.fanmingming.com/tv/港台电视32.png" group-title="HK_TV",港台电视32
+#EXTINF:-1 tvg-id="港台电视32" tvg-name="港台电视32" tvg-logo="https://assets.livednow.com/logo/港台電視-32.png" group-title="HK_TV",港台电视32
 http://php.jdshipin.com:8880/xsj.php?id=rthk32
 #EXTINF:-1 tvg-id="Now财经台" tvg-name="Now财经台" tvg-logo="https://live.fanmingming.com/tv/Now财经台.png" group-title="HK_NOW_TV",Now财经台
 http://php.jdshipin.com:8880/xsj.php?id=now-finance
