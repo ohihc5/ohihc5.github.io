@@ -63,51 +63,51 @@ http://php.jdshipin.com:8880/xsj.php?id=now-data
 http://php.jdshipin.com:8880/xsj.php?id=now-jelli
 #EXTINF:-1 tvg-id="Now华剧台" tvg-name="Now华剧台" tvg-logo="https://live.fanmingming.com/tv/Now华剧台.png" group-title="HK_NOW_TV",Now华剧台
 http://php.jdshipin.com:8880/xsj.php?id=now-chinese-drama
-#EXTINF:-1 tvg-id="HBONow115" tvg-name="HBONow115" tvg-logo="https://live.fanmingming.com/tv/HBONow115.png" group-title="HK_NOW_TV",HBONow115
+#EXTINF:-1 tvg-id="NowHBO" tvg-name="NowHBO" tvg-logo="https://live.fanmingming.com/tv/HBO.png" group-title="HK_NOW_TV",Now HBO
 http://php.jdshipin.com:8880/xsj.php?id=Now-HBO
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/" group-title="HK_NOW_TV",Now HBO Hits
+#EXTINF:-1 tvg-id="NowHBOHits" tvg-name="NowHBOHits" tvg-logo="https://live.fanmingming.com/tv/HBOHits.png" group-title="HK_NOW_TV",Now HBO Hits
 http://php.jdshipin.com:8880/xsj.php?id=now-hbo-hits
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/" group-title="HK_NOW_TV",Now HBO Family
+#EXTINF:-1 tvg-id="NowHBOFamily" tvg-name="NowHBOFamily" tvg-logo="https://live.fanmingming.com/tv/HBOFamily.png" group-title="HK_NOW_TV",Now HBO Family
 http://php.jdshipin.com:8880/xsj.php?id=now-hbof-amily
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/" group-title="HK_NOW_TV",Now HBO Signature
+#EXTINF:-1 tvg-id="NowHBOSignature" tvg-name="NowHBOSignature" tvg-logo="https://live.fanmingming.com/tv/HBOSignature.png" group-title="HK_NOW_TV",Now HBO Signature
 http://php.jdshipin.com:8880/xsj.php?id=now-hbo-signature
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/" group-title="HK_NOW_TV",MovieMovie
+#EXTINF:-1 tvg-id="MovieMovie" tvg-name="MovieMovie" tvg-logo="https://live.fanmingming.com/tv/MovieMovie.png" group-title="HK_NOW_TV",Movie Movie
 http://php.jdshipin.com:8880/xsj.php?id=moviemovie
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/" group-title="HK_NOW_TV",NowViu剧集台
+#EXTINF:-1 tvg-id="NowViu剧集台" tvg-name="NowViu剧集台" tvg-logo="https://live.fanmingming.com/tv/NowViu剧集台.png" group-title="HK_NOW_TV",NowViu剧集台
 http://php.jdshipin.com:8880/xsj.php?id=now-viu-drama
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/" group-title="HK_NOW_TV",Now Sports 641
+#EXTINF:-1 tvg-id="Now Sports 641" tvg-name="Now Sports 641" tvg-logo="https://live.fanmingming.com/tv/Now Sports 641.png" group-title="HK_NOW_TV",Now Sports 641
 http://php.jdshipin.com:8880/xsj.php?id=now-sports641
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/" group-title="HK_NOW_TV",Now NBA
+#EXTINF:-1 tvg-id="Now NBA" tvg-name="Now NBA" tvg-logo="https://live.fanmingming.com/tv/NBA.png" group-title="HK_NOW_TV",Now NBA
 http://php.jdshipin.com:8880/xsj.php?id=now-nba
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/" group-title="HK_NOW_TV",Now Sports精选
+#EXTINF:-1 tvg-id="Now Sports精选" tvg-name="Now Sports精选" tvg-logo="https://live.fanmingming.com/tv/Now Sports精选.png" group-title="HK_NOW_TV",Now Sports精选
 http://php.jdshipin.com:8880/xsj.php?id=now-sports-prime
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/" group-title="HK_NOW_TV",Now Sports 1
+#EXTINF:-1 tvg-id="Now Sports 1" tvg-name="Now Sports 1" tvg-logo="https://live.fanmingming.com/tv/NowSports1.png" group-title="HK_NOW_TV",Now Sports 1
 http://php.jdshipin.com:8880/xsj.php?id=now-sports-1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/" group-title="HK_NOW_TV",Now Sports 2
+#EXTINF:-1 tvg-id="Now Sports 2" tvg-name="Now Sports 2" tvg-logo="https://live.fanmingming.com/tv/NowSports2.png" group-title="HK_NOW_TV",Now Sports 2
 http://php.jdshipin.com:8880/xsj.php?id=now-sports-2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/" group-title="HK_NOW_TV",Now Sports 3
+#EXTINF:-1 tvg-id="Now Sports 3" tvg-name="Now Sports 3" tvg-logo="https://live.fanmingming.com/tv/" group-title="HK_NOW_TV",Now Sports 3
 http://php.jdshipin.com:8880/xsj.php?id=now-sports-3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/" group-title="HK_NOW_TV",Now Sports 4
+#EXTINF:-1 tvg-id="Now Sports 4" tvg-name="Now Sports 4" tvg-logo="https://live.fanmingming.com/tv/" group-title="HK_NOW_TV",Now Sports 4
 http://php.jdshipin.com:8880/xsj.php?id=now-sports-4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/" group-title="HK_NOW_TV",Now Sports 5
+#EXTINF:-1 tvg-id="Now Sports 5" tvg-name="Now Sports 5" tvg-logo="https://live.fanmingming.com/tv/" group-title="HK_NOW_TV",Now Sports 5
 http://php.jdshipin.com:8880/xsj.php?id=now-sports-5
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/" group-title="HK_NOW_TV",Now Sports 6
+#EXTINF:-1 tvg-id="Now Sports 6" tvg-name="Now Sports 6" tvg-logo="https://live.fanmingming.com/tv/" group-title="HK_NOW_TV",Now Sports 6
 http://php.jdshipin.com:8880/xsj.php?id=now-sports-6
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/" group-title="HK_NOW_TV",Now Sports 7
+#EXTINF:-1 tvg-id="Now Sports 7" tvg-name="Now Sports 7" tvg-logo="https://live.fanmingming.com/tv/" group-title="HK_NOW_TV",Now Sports 7
 http://php.jdshipin.com:8880/xsj.php?id=now-sports-7
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/" group-title="HK_NOW_TV",Now Sports Plus
+#EXTINF:-1 tvg-id="Now Sports Plus" tvg-name="Now Sports Plus" tvg-logo="https://live.fanmingming.com/tv/" group-title="HK_NOW_TV",Now Sports Plus
 http://php.jdshipin.com:8880/xsj.php?id=now-sports-plus
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/" group-title="HK_NOW_TV",Now Sports 英超1
+#EXTINF:-1 tvg-id="Now Sports 英超1" tvg-name="Now Sports 英超1" tvg-logo="https://live.fanmingming.com/tv/" group-title="HK_NOW_TV",Now Sports 英超1
 http://php.jdshipin.com:8880/xsj.php?id=now-sports-premier-league1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/" group-title="HK_NOW_TV",Now beIN SPORTS 1
+#EXTINF:-1 tvg-id="Now beIN SPORTS 1" tvg-name="Now beIN SPORTS 1" tvg-logo="https://live.fanmingming.com/tv/" group-title="HK_NOW_TV",Now beIN SPORTS 1
 http://php.jdshipin.com:8880/xsj.php?id=now-bein-sports1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/" group-title="HK_NOW_TV",Now beIN SPORTS 2
+#EXTINF:-1 tvg-id="Now beIN SPORTS 2" tvg-name="Now beIN SPORTS 2" tvg-logo="https://live.fanmingming.com/tv/" group-title="HK_NOW_TV",Now beIN SPORTS 2
 http://php.jdshipin.com:8880/xsj.php?id=now-bein-sports2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/" group-title="HK_NOW_TV",Now beIN SPORTS 3
+#EXTINF:-1 tvg-id="Now beIN SPORTS 3" tvg-name="Now beIN SPORTS 3" tvg-logo="https://live.fanmingming.com/tv/" group-title="HK_NOW_TV",Now beIN SPORTS 3
 http://php.jdshipin.com:8880/xsj.php?id=now-bein-sports3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/" group-title="HK_NOW_TV",Now 668
+#EXTINF:-1 tvg-id="Now 668" tvg-name="Now 668" tvg-logo="https://live.fanmingming.com/tv/" group-title="HK_NOW_TV",Now 668
 http://php.jdshipin.com:8880/xsj.php?id=now-668
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/" group-title="HK_NOW_TV",Now Golf 2
+#EXTINF:-1 tvg-id="Now Golf 2" tvg-name="Now Golf 2" tvg-logo="https://live.fanmingming.com/tv/" group-title="HK_NOW_TV",Now Golf 2
 http://php.jdshipin.com:8880/xsj.php?id=now-golf2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/" group-title="HK_NOW_TV",Now Golf 3
+#EXTINF:-1 tvg-id="Now Golf 3" tvg-name="Now Golf 3" tvg-logo="https://live.fanmingming.com/tv/" group-title="HK_NOW_TV",Now Golf 3
 http://php.jdshipin.com:8880/xsj.php?id=now-golf3
