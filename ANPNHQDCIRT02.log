@@ -1,0 +1,1012 @@
+=~=~=~=~=~=~=~=~=~=~=~= MobaXterm log 2025.06.03 14:30:37 =~=~=~=~=~=~=~=~=~=~=~=
+
+WARNING - PRIVATE ELECTRONIC DEVICE - ACCESS PROHIBITED
+Any unauthorized access or use of this system is prohibited and
+subject to criminal and civil prosecution.
+
+**************************************************
+You are connecting to the device ANPNHQDCIRT02
+***************************************************
+
+Password:
+You have connected to the device ANPNHQDCIRT02 successfully.
+
+
+Info: The max number of VTY users is 15, the number of current VTY users online is 0, and total number of terminal users online is 1.
+      The current login time is 2025-06-03 14:17:36+08:00.
+<ANPNHQDCIRT02>screen-length 0 temporary
+Info: The configuration takes effect on the current user terminal interface only.
+<ANPNHQDCIRT02>
+<ANPNHQDCIRT02>display interface description
+PHY: Physical
+*down: administratively down
+^down: standby
+(l): loopback
+(s): spoofing
+(E): E-Trunk down
+(b): BFD down
+(B): Bit-error-detection down
+(e): ETHOAM down
+(d): Dampening Suppressed
+(p): port alarm down
+(ld): loop-detect trigger down
+(c): CFM down
+Interface                     PHY     Protocol Description                     
+Eth-Trunk100                  up      down     To_AN_FANOUT_TRUNK              
+Eth-Trunk100.2                up      up                                       
+Eth-Trunk100.5                up      up                                       
+Eth-Trunk100.6                up      up                                       
+Eth-Trunk100.10               up      up                                       
+Eth-Trunk100.21               up      up                                       
+Eth-Trunk100.26               up      up                                       
+Eth-Trunk100.30               up      up                                       
+Eth-Trunk100.39               up      up                                       
+Eth-Trunk100.41               up      up                                       
+Eth-Trunk100.42               up      up                                       
+Eth-Trunk100.44               up      up                                       
+Eth-Trunk100.45               up      up                                       
+Eth-Trunk100.201              up      up                                       
+Eth-Trunk100.202              up      up                                       
+Eth-Trunk100.203              up      up                                       
+Eth-Trunk100.204              up      up                                       
+Eth-Trunk100.205              up      up                                       
+Eth-Trunk100.206              up      up                                       
+Eth-Trunk100.209              up      up                                       
+Eth-Trunk100.210              up      up                                       
+Eth-Trunk100.211              up      up                                       
+Eth-Trunk100.212              up      up                                       
+Eth-Trunk100.213              up      up                                       
+Eth-Trunk100.214              up      up                                       
+Eth-Trunk100.219              up      up                                       
+Eth-Trunk100.220              up      up                                       
+Eth-Trunk100.261              up      up                                       
+Eth-Trunk100.269              up      up                                       
+Eth-Trunk100.276              up      up                                       
+Eth-Trunk103                  up      down     To_ANPNHQSBDZ11D01&02_Trunk     
+Eth-Trunk103.2                up      up                                       
+Eth-Trunk103.3                up      up                                       
+Eth-Trunk103.4                up      up                                       
+Eth-Trunk103.5                up      up                                       
+Eth-Trunk103.261              up      up                                       
+Eth-Trunk103.262              up      up                                       
+Eth-Trunk103.263              up      up                                       
+Eth-Trunk103.264              up      up                                       
+Eth-Trunk103.265              up      up                                       
+Eth-Trunk103.268              up      up                                       
+Eth-Trunk103.269              up      up                                       
+Eth-Trunk103.996              up      up                                       
+Eth-Trunk104                  up      down     To_ANPNHQSBUZ11D01&02_Trunk     
+Eth-Trunk104.2                up      up                                       
+Eth-Trunk104.10               up      up                                       
+Eth-Trunk104.20               up      up                                       
+Eth-Trunk104.30               up      up                                       
+Eth0/0/0                      down    down     OOB_MGMT                        
+GE0/2/0                       down    down                                     
+GE0/2/1                       down    down                                     
+GE0/2/2                       down    down                                     
+GE0/2/3                       down    down                                     
+GE0/2/4                       down    down                                     
+GE0/2/5                       down    down                                     
+GE0/2/6                       down    down                                     
+GE0/2/7                       down    down                                     
+GE0/2/8                       down    down     To_ANPNRRSBRZ11D01              
+GE0/2/9                       down    down     To_ANPNRRSBRZ11D02_25GE1/0/2    
+GE0/4/0(10G)                  up      up       To_ANPHQSDCIRT02_L2Extension    
+GE0/4/1(10G)                  up      down                                     
+GE0/4/1.2(10G)                up      up       To_ANPNHQDCIRT10                
+GE0/4/1.3(10G)                up      up       To_ANPNHQDCIRT09                
+GE0/4/2(10G)                  up      up       To_ANPPDCDCIRT02_GE0/4/0        
+GE0/4/3(10G)                  up      down     To_Circuit_910049383            
+GE0/4/3.453(10G)              up      up       To_ANPPDCDCIRT02_GE0/4/3        
+GE0/4/3.455(10G)              up      up       To_ANPDCCDCIRT02_P2MP           
+GE0/4/3.456(10G)              up      up       To_ANPDCCDCIRT02_GE0/4/3        
+GE0/4/3.457(10G)              up      up       ITI-HCS                         
+GE0/5/0(10G)                  up      up                                       
+GE0/5/1(10G)                  up      up                                       
+GE0/5/2(10G)                  up      up       To_ITPNHQSBRZ01C02_P2MP         
+GE0/5/3(10G)                  up      up       To_ITPNHQSBRZ01C01              
+GE0/6/0(10G)                  up      up                                       
+GE0/6/1(10G)                  up      up                                       
+GE0/6/2(10G)                  down    down                                     
+GE0/6/3(10G)                  down    down                                     
+Loop0                         up      up(s)                                    
+Loop1                         up      up(s)    MGMT_NCE                        
+Loop2                         up      up(s)                                    
+NULL0                         up      up(s)                                    
+Nve1                          up      up                                       
+<ANPNHQDCIRT02>     
+<ANPNHQDCIRT02>display lldp neighbor brief
+Local Intf                     Neighbor Dev         Neighbor Intf        Exptime (sec)
+--------------------------------------------------------------------------------------
+GigabitEthernet0/4/0           ANPHQSDCIRT02        GigabitEthernet0/4/0           113
+GigabitEthernet0/4/1           ANPNHQDCIRT01        GigabitEthernet0/4/1           107
+GigabitEthernet0/4/2           ANPPDCDCIRT02        GigabitEthernet0/4/0           107
+GigabitEthernet0/5/0           ANPNHQDCIFO02        25GE1/0/42                      92
+GigabitEthernet0/5/1           ANPNHQDCIFO01        25GE1/0/42                     101
+GigabitEthernet0/5/2           ANPNHQSBTZ01C01      10GE5/0/41                     105
+GigabitEthernet0/5/3           ANPNHQSBTZ01C02      10GE6/0/41                     113
+GigabitEthernet0/6/0           ANPNHQSBUZ11D01      25GE1/0/40                     108
+GigabitEthernet0/6/1           ANPNHQSBDZ11D01      25GE1/0/40                     112
+<ANPNHQDCIRT02>           
+<ANPNHQDCIRT02>display current-configuration interface
+#
+interface Eth-Trunk100
+ description To_AN_FANOUT_TRUNK
+ mode lacp-static
+ e-trunk 1
+ e-trunk mode force-master
+ esi 0009.0010.0000.0000.0100
+#
+interface Eth-Trunk100.2 mode l2
+ statistic enable mode single
+ encapsulation dot1q vid 2
+ rewrite pop single
+ bridge-domain 3002
+ ip netstream inbound
+ ip netstream outbound
+ ip netstream sampler fix-packets 1024 inbound
+ ip netstream sampler fix-packets 1024 outbound
+#
+interface Eth-Trunk100.5 mode l2
+ statistic enable mode single
+ encapsulation dot1q vid 5
+ rewrite pop single
+ bridge-domain 5
+ ip netstream inbound
+ ip netstream outbound
+ ip netstream sampler fix-packets 1024 inbound
+ ip netstream sampler fix-packets 1024 outbound
+#
+interface Eth-Trunk100.6 mode l2
+ statistic enable mode single
+ encapsulation dot1q vid 6
+ rewrite pop single
+ bridge-domain 6
+ ip netstream inbound
+ ip netstream outbound
+ ip netstream sampler fix-packets 1024 inbound
+ ip netstream sampler fix-packets 1024 outbound
+#
+interface Eth-Trunk100.10 mode l2
+ statistic enable mode single
+ encapsulation dot1q vid 10
+ rewrite pop single
+ bridge-domain 10
+ ip netstream inbound
+ ip netstream outbound
+ ip netstream sampler fix-packets 1024 inbound
+ ip netstream sampler fix-packets 1024 outbound
+#
+interface Eth-Trunk100.21 mode l2
+ statistic enable mode single
+ encapsulation dot1q vid 21
+ rewrite pop single
+ bridge-domain 21
+ ip netstream inbound
+ ip netstream outbound
+ ip netstream sampler fix-packets 1024 inbound
+ ip netstream sampler fix-packets 1024 outbound
+#
+interface Eth-Trunk100.26 mode l2
+ statistic enable mode single
+ encapsulation dot1q vid 26
+ rewrite pop single
+ bridge-domain 26
+ ip netstream inbound
+ ip netstream outbound
+ ip netstream sampler fix-packets 1024 inbound
+ ip netstream sampler fix-packets 1024 outbound
+#
+interface Eth-Trunk100.30 mode l2
+ statistic enable mode single
+ encapsulation dot1q vid 30
+ rewrite pop single
+ bridge-domain 30
+ ip netstream inbound
+ ip netstream outbound
+ ip netstream sampler fix-packets 1024 inbound
+ ip netstream sampler fix-packets 1024 outbound
+#
+interface Eth-Trunk100.39 mode l2
+ encapsulation dot1q vid 39
+ rewrite pop single
+ bridge-domain 39
+ ip netstream inbound
+ ip netstream outbound
+ ip netstream sampler fix-packets 1024 inbound
+ ip netstream sampler fix-packets 1024 outbound
+#
+interface Eth-Trunk100.41 mode l2
+ statistic enable mode single
+ encapsulation dot1q vid 41
+ rewrite pop single
+ bridge-domain 41
+ ip netstream inbound
+ ip netstream outbound
+ ip netstream sampler fix-packets 1024 inbound
+ ip netstream sampler fix-packets 1024 outbound
+#
+interface Eth-Trunk100.42 mode l2
+ statistic enable mode single
+ encapsulation dot1q vid 42
+ rewrite pop single
+ bridge-domain 42
+ ip netstream inbound
+ ip netstream outbound
+ ip netstream sampler fix-packets 1024 inbound
+ ip netstream sampler fix-packets 1024 outbound
+#
+interface Eth-Trunk100.44 mode l2
+ statistic enable mode single
+ encapsulation dot1q vid 44
+ rewrite pop single
+ bridge-domain 44
+ ip netstream inbound
+ ip netstream outbound
+ ip netstream sampler fix-packets 1024 inbound
+ ip netstream sampler fix-packets 1024 outbound
+#
+interface Eth-Trunk100.45 mode l2
+ statistic enable mode single
+ encapsulation dot1q vid 45
+ rewrite pop single
+ bridge-domain 45
+ ip netstream inbound
+ ip netstream outbound
+ ip netstream sampler fix-packets 1024 inbound
+ ip netstream sampler fix-packets 1024 outbound
+#
+interface Eth-Trunk100.201 mode l2
+ statistic enable mode single
+ encapsulation dot1q vid 201
+ rewrite pop single
+ bridge-domain 201
+ ip netstream inbound
+ ip netstream outbound
+ ip netstream sampler fix-packets 1024 inbound
+ ip netstream sampler fix-packets 1024 outbound
+#
+interface Eth-Trunk100.202 mode l2
+ statistic enable mode single
+ encapsulation dot1q vid 202
+ rewrite pop single
+ bridge-domain 202
+ ip netstream inbound
+ ip netstream outbound
+ ip netstream sampler fix-packets 1024 inbound
+ ip netstream sampler fix-packets 1024 outbound
+#
+interface Eth-Trunk100.203 mode l2
+ statistic enable mode single
+ encapsulation dot1q vid 203
+ rewrite pop single
+ bridge-domain 203
+ ip netstream inbound
+ ip netstream outbound
+ ip netstream sampler fix-packets 1024 inbound
+ ip netstream sampler fix-packets 1024 outbound
+#
+interface Eth-Trunk100.204 mode l2
+ statistic enable mode single
+ encapsulation dot1q vid 204
+ rewrite pop single
+ bridge-domain 204
+ ip netstream inbound
+ ip netstream outbound
+ ip netstream sampler fix-packets 1024 inbound
+ ip netstream sampler fix-packets 1024 outbound
+#
+interface Eth-Trunk100.205 mode l2
+ statistic enable mode single
+ encapsulation dot1q vid 205
+ rewrite pop single
+ bridge-domain 205
+ ip netstream inbound
+ ip netstream outbound
+ ip netstream sampler fix-packets 1024 inbound
+ ip netstream sampler fix-packets 1024 outbound
+#
+interface Eth-Trunk100.206 mode l2
+ statistic enable mode single
+ encapsulation dot1q vid 206
+ rewrite pop single
+ bridge-domain 206
+ ip netstream inbound
+ ip netstream outbound
+ ip netstream sampler fix-packets 1024 inbound
+ ip netstream sampler fix-packets 1024 outbound
+#
+interface Eth-Trunk100.209 mode l2
+ statistic enable mode single
+ encapsulation dot1q vid 209
+ rewrite pop single
+ bridge-domain 209
+ ip netstream inbound
+ ip netstream outbound
+ ip netstream sampler fix-packets 1024 inbound
+ ip netstream sampler fix-packets 1024 outbound
+#
+interface Eth-Trunk100.210 mode l2
+ statistic enable mode single
+ encapsulation dot1q vid 210
+ rewrite pop single
+ bridge-domain 210
+ ip netstream inbound
+ ip netstream outbound
+ ip netstream sampler fix-packets 1024 inbound
+ ip netstream sampler fix-packets 1024 outbound
+#
+interface Eth-Trunk100.211 mode l2
+ statistic enable mode single
+ encapsulation dot1q vid 211
+ rewrite pop single
+ bridge-domain 211
+ ip netstream inbound
+ ip netstream outbound
+ ip netstream sampler fix-packets 1024 inbound
+ ip netstream sampler fix-packets 1024 outbound
+#
+interface Eth-Trunk100.212 mode l2
+ statistic enable mode single
+ encapsulation dot1q vid 212
+ rewrite pop single
+ bridge-domain 212
+ ip netstream inbound
+ ip netstream outbound
+ ip netstream sampler fix-packets 1024 inbound
+ ip netstream sampler fix-packets 1024 outbound
+#
+interface Eth-Trunk100.213 mode l2
+ statistic enable mode single
+ encapsulation dot1q vid 213
+ rewrite pop single
+ bridge-domain 213
+ ip netstream inbound
+ ip netstream outbound
+ ip netstream sampler fix-packets 1024 inbound
+ ip netstream sampler fix-packets 1024 outbound
+#
+interface Eth-Trunk100.214 mode l2
+ statistic enable mode single
+ encapsulation dot1q vid 214
+ rewrite pop single
+ bridge-domain 214
+ ip netstream inbound
+ ip netstream outbound
+ ip netstream sampler fix-packets 1024 inbound
+ ip netstream sampler fix-packets 1024 outbound
+#
+interface Eth-Trunk100.219 mode l2
+ statistic enable mode single
+ encapsulation dot1q vid 219
+ rewrite pop single
+ bridge-domain 219
+ ip netstream inbound
+ ip netstream outbound
+ ip netstream sampler fix-packets 1024 inbound
+ ip netstream sampler fix-packets 1024 outbound
+#
+interface Eth-Trunk100.220 mode l2
+ statistic enable mode single
+ encapsulation dot1q vid 220
+ rewrite pop single
+ bridge-domain 220
+ ip netstream inbound
+ ip netstream outbound
+ ip netstream sampler fix-packets 1024 inbound
+ ip netstream sampler fix-packets 1024 outbound
+#
+interface Eth-Trunk100.261 mode l2
+ statistic enable mode single
+ encapsulation dot1q vid 261
+ rewrite pop single
+ bridge-domain 261
+ ip netstream inbound
+ ip netstream outbound
+ ip netstream sampler fix-packets 1024 inbound
+ ip netstream sampler fix-packets 1024 outbound
+#
+interface Eth-Trunk100.269 mode l2
+ statistic enable mode single
+ encapsulation dot1q vid 269
+ rewrite pop single
+ bridge-domain 269
+ ip netstream inbound
+ ip netstream outbound
+ ip netstream sampler fix-packets 1024 inbound
+ ip netstream sampler fix-packets 1024 outbound
+#
+interface Eth-Trunk100.276 mode l2
+ encapsulation dot1q vid 276
+ rewrite pop single
+ bridge-domain 276
+ ip netstream inbound
+ ip netstream outbound
+ ip netstream sampler fix-packets 1024 inbound
+ ip netstream sampler fix-packets 1024 outbound
+#
+interface Eth-Trunk103
+ description To_ANPNHQSBDZ11D01&02_Trunk
+ mode lacp-static
+ e-trunk 1
+ e-trunk mode force-master
+ esi 0009.0010.0000.0000.0103
+#
+interface Eth-Trunk103.2 mode l2
+ statistic enable mode single
+ encapsulation dot1q vid 2
+ rewrite pop single
+ bridge-domain 2
+ ip netstream inbound
+ ip netstream outbound
+ ip netstream sampler fix-packets 1024 inbound
+ ip netstream sampler fix-packets 1024 outbound
+#
+interface Eth-Trunk103.3 mode l2
+ statistic enable mode single
+ encapsulation dot1q vid 3
+ rewrite pop single
+ bridge-domain 3
+ ip netstream inbound
+ ip netstream outbound
+ ip netstream sampler fix-packets 1024 inbound
+ ip netstream sampler fix-packets 1024 outbound
+#
+interface Eth-Trunk103.4 mode l2
+ statistic enable mode single
+ encapsulation dot1q vid 4
+ rewrite pop single
+ bridge-domain 4
+ ip netstream inbound
+ ip netstream outbound
+ ip netstream sampler fix-packets 1024 inbound
+ ip netstream sampler fix-packets 1024 outbound
+#
+interface Eth-Trunk103.5 mode l2
+ statistic enable mode single
+ encapsulation dot1q vid 5
+ rewrite pop single
+ bridge-domain 5
+ ip netstream inbound
+ ip netstream outbound
+ ip netstream sampler fix-packets 1024 inbound
+ ip netstream sampler fix-packets 1024 outbound
+#
+interface Eth-Trunk103.261 mode l2
+ statistic enable mode single
+ encapsulation dot1q vid 261
+ rewrite pop single
+ bridge-domain 261
+ ip netstream inbound
+ ip netstream outbound
+ ip netstream sampler fix-packets 1024 inbound
+ ip netstream sampler fix-packets 1024 outbound
+#
+interface Eth-Trunk103.262 mode l2
+ statistic enable mode single
+ encapsulation dot1q vid 262
+ rewrite pop single
+ bridge-domain 262
+ ip netstream inbound
+ ip netstream outbound
+ ip netstream sampler fix-packets 1024 inbound
+ ip netstream sampler fix-packets 1024 outbound
+#
+interface Eth-Trunk103.263 mode l2
+ statistic enable mode single
+ encapsulation dot1q vid 263
+ rewrite pop single
+ bridge-domain 263
+ ip netstream inbound
+ ip netstream outbound
+ ip netstream sampler fix-packets 1024 inbound
+ ip netstream sampler fix-packets 1024 outbound
+#
+interface Eth-Trunk103.264 mode l2
+ statistic enable mode single
+ encapsulation dot1q vid 264
+ rewrite pop single
+ bridge-domain 264
+ ip netstream inbound
+ ip netstream outbound
+ ip netstream sampler fix-packets 1024 inbound
+ ip netstream sampler fix-packets 1024 outbound
+#
+interface Eth-Trunk103.265 mode l2
+ statistic enable mode single
+ encapsulation dot1q vid 265
+ rewrite pop single
+ bridge-domain 265
+ ip netstream inbound
+ ip netstream outbound
+ ip netstream sampler fix-packets 1024 inbound
+ ip netstream sampler fix-packets 1024 outbound
+#
+interface Eth-Trunk103.268 mode l2
+ statistic enable mode single
+ encapsulation dot1q vid 268
+ rewrite pop single
+ bridge-domain 268
+ ip netstream inbound
+ ip netstream outbound
+ ip netstream sampler fix-packets 1024 inbound
+ ip netstream sampler fix-packets 1024 outbound
+#
+interface Eth-Trunk103.269 mode l2
+ statistic enable mode single
+ encapsulation dot1q vid 269
+ rewrite pop single
+ bridge-domain 269
+ ip netstream inbound
+ ip netstream outbound
+ ip netstream sampler fix-packets 1024 inbound
+ ip netstream sampler fix-packets 1024 outbound
+#
+interface Eth-Trunk103.996 mode l2
+ statistic enable mode single
+ encapsulation dot1q vid 996
+ rewrite pop single
+ bridge-domain 996
+ ip netstream inbound
+ ip netstream outbound
+ ip netstream sampler fix-packets 1024 inbound
+ ip netstream sampler fix-packets 1024 outbound
+#
+interface Eth-Trunk104
+ description To_ANPNHQSBUZ11D01&02_Trunk
+ mode lacp-static
+ e-trunk 1
+ e-trunk mode force-master
+ esi 0009.0010.0000.0000.0104
+#
+interface Eth-Trunk104.2 mode l2
+ statistic enable mode single
+ encapsulation dot1q vid 2
+ rewrite pop single
+ bridge-domain 1002
+ ip netstream inbound
+ ip netstream outbound
+ ip netstream sampler fix-packets 1024 inbound
+ ip netstream sampler fix-packets 1024 outbound
+#
+interface Eth-Trunk104.10 mode l2
+ statistic enable mode single
+ encapsulation dot1q vid 10
+ rewrite pop single
+ bridge-domain 1001
+ ip netstream inbound
+ ip netstream outbound
+ ip netstream sampler fix-packets 1024 inbound
+ ip netstream sampler fix-packets 1024 outbound
+#
+interface Eth-Trunk104.20 mode l2
+ statistic enable mode single
+ encapsulation dot1q vid 20
+ rewrite pop single
+ bridge-domain 20
+ ip netstream inbound
+ ip netstream outbound
+ ip netstream sampler fix-packets 1024 inbound
+ ip netstream sampler fix-packets 1024 outbound
+#
+interface Eth-Trunk104.30 mode l2
+ statistic enable mode single
+ encapsulation dot1q vid 30
+ rewrite pop single
+ bridge-domain 30
+ ip netstream inbound
+ ip netstream outbound
+ ip netstream sampler fix-packets 1024 inbound
+ ip netstream sampler fix-packets 1024 outbound
+#
+interface Ethernet0/0/0
+ description OOB_MGMT
+ undo shutdown
+ ip binding vpn-instance __LOCAL_OAM_VPN__
+ ip address 192.168.0.1 255.255.255.0
+#
+interface GigabitEthernet0/2/0
+ undo shutdown
+ ip netstream inbound
+ ip netstream outbound
+ ip netstream sampler fix-packets 1024 inbound
+ ip netstream sampler fix-packets 1024 outbound
+ undo dcn
+#
+interface GigabitEthernet0/2/1
+ undo shutdown
+ ip netstream inbound
+ ip netstream outbound
+ ip netstream sampler fix-packets 1024 inbound
+ ip netstream sampler fix-packets 1024 outbound
+ undo dcn
+#
+interface GigabitEthernet0/2/2
+ undo shutdown
+ ip netstream inbound
+ ip netstream outbound
+ ip netstream sampler fix-packets 1024 inbound
+ ip netstream sampler fix-packets 1024 outbound
+ undo dcn
+#
+interface GigabitEthernet0/2/3
+ undo shutdown
+ ip netstream inbound
+ ip netstream outbound
+ ip netstream sampler fix-packets 1024 inbound
+ ip netstream sampler fix-packets 1024 outbound
+ undo dcn
+#
+interface GigabitEthernet0/2/4
+ undo shutdown
+ ip netstream inbound
+ ip netstream outbound
+ ip netstream sampler fix-packets 1024 inbound
+ ip netstream sampler fix-packets 1024 outbound
+ undo dcn
+#
+interface GigabitEthernet0/2/5
+ undo shutdown
+ ip netstream inbound
+ ip netstream outbound
+ ip netstream sampler fix-packets 1024 inbound
+ ip netstream sampler fix-packets 1024 outbound
+ undo dcn
+#
+interface GigabitEthernet0/2/6
+ undo shutdown
+ ip netstream inbound
+ ip netstream outbound
+ ip netstream sampler fix-packets 1024 inbound
+ ip netstream sampler fix-packets 1024 outbound
+ undo dcn
+#
+interface GigabitEthernet0/2/7
+ undo shutdown
+ ip netstream inbound
+ ip netstream outbound
+ ip netstream sampler fix-packets 1024 inbound
+ ip netstream sampler fix-packets 1024 outbound
+ undo dcn
+#
+interface GigabitEthernet0/2/8
+ description To_ANPNRRSBRZ11D01
+ undo shutdown
+ ip binding vpn-instance ITI-HCS
+ ip address 51.14.51.114 255.255.255.252
+ ospf authentication-mode hmac-sha256 1 cipher %^%##l7]J6mdb,ehS[Fd-xsLm"a,E<I)@BF`bu%,l15+%^%#
+ ospf timer hello 2
+ ospf timer retransmit 1
+ ip netstream inbound
+ ip netstream outbound
+ ip netstream sampler fix-packets 1024 inbound
+ ip netstream sampler fix-packets 1024 outbound
+ undo dcn
+#
+interface GigabitEthernet0/2/9
+ description To_ANPNRRSBRZ11D02_25GE1/0/2
+ undo shutdown
+ ip binding vpn-instance ITI-HCS
+ ip address 51.14.51.150 255.255.255.252
+ ospf authentication-mode hmac-sha256 1 cipher %^%#7!F/Wg)>2#qHW*76_o!))<\KOba>G)zD\v!V4[o%%^%#
+ ospf timer hello 2
+ ospf timer retransmit 1
+ ip netstream inbound
+ ip netstream outbound
+ ip netstream sampler fix-packets 1024 inbound
+ ip netstream sampler fix-packets 1024 outbound
+ undo dcn
+#
+interface GigabitEthernet0/4/0
+ mtu 9000
+ description To_ANPHQSDCIRT02_L2Extension
+ undo shutdown
+ ip address 192.168.102.1 255.255.255.252
+ ospf network-type p2p
+ ospf enable 1 area 0.0.0.0
+ ip netstream inbound
+ ip netstream outbound
+ ip netstream sampler fix-packets 1024 inbound
+ ip netstream sampler fix-packets 1024 outbound
+ undo dcn
+ mka cak-mode static ckn a1 cak cipher %^%#KIdzSl8OiXYw',:AWiM$z';u0]d=9){b(.8[Ev98O`,oKSZ@XD|7+w<;C==X<jkx$K7|U=Ly^sO8kFx@MTiw2y5v;*;qEw5l)ed8%^%#
+ macsec replay-window 512
+ macsec mode normal
+ macsec confidentiality-offset 50
+ macsec cipher-suite gcm-aes-256
+ mka keyserver priority 10
+ mka timer sak-life 500
+#
+interface GigabitEthernet0/4/1
+ mtu 9000
+ undo shutdown
+ ip netstream inbound
+ ip netstream outbound
+ ip netstream sampler fix-packets 1024 inbound
+ ip netstream sampler fix-packets 1024 outbound
+ undo dcn
+#
+interface GigabitEthernet0/4/1.2
+ vlan-type dot1q 2
+ mtu 9000
+ description To_ANPNHQDCIRT10
+ ip address 192.168.109.2 255.255.255.252
+ statistic enable
+ ospf network-type p2p
+ ospf enable 1 area 0.0.0.0
+ ip netstream inbound
+ ip netstream outbound
+ ip netstream sampler fix-packets 1024 inbound
+ ip netstream sampler fix-packets 1024 outbound
+#
+interface GigabitEthernet0/4/1.3
+ vlan-type dot1q 3
+ mtu 9000
+ description To_ANPNHQDCIRT09
+ ip binding vpn-instance P2MP
+ ip address 10.26.23.234 255.255.255.252
+ statistic enable
+ ospf authentication-mode md5 1 cipher %^%#M7}a!%&T[&_`ftU<E7_<6UZ"DcJlT@RA,VU'Ga4*%^%#
+ ospf network-type p2p
+ ospf timer hello 2
+ ospf timer retransmit 1
+ ospf enable 26 area 0.0.0.0
+ ip netstream inbound
+ ip netstream outbound
+ ip netstream sampler fix-packets 1024 inbound
+ ip netstream sampler fix-packets 1024 outbound
+#
+interface GigabitEthernet0/4/2
+ mtu 9000
+ description To_ANPPDCDCIRT02_GE0/4/0
+ undo shutdown
+ ip address 192.168.106.1 255.255.255.252
+ ospf network-type p2p
+ ospf enable 1 area 0.0.0.0
+ ip netstream inbound
+ ip netstream outbound
+ ip netstream sampler fix-packets 1024 inbound
+ ip netstream sampler fix-packets 1024 outbound
+ undo dcn
+ mka cak-mode static ckn a1 cak cipher %^%#LYUwR<jN^Xhz_v88<AS$\W&,M->|;4,[14%;U,F$dePjGK=E\T[IVp"`.=z+(3+kMBQ3H55]"<Cp#$b%{l\j1d;DWS}ACcU=L:P3%^%#
+ macsec replay-window 512
+ macsec mode normal
+ macsec confidentiality-offset 50
+ macsec cipher-suite gcm-aes-256
+ mka keyserver priority 10
+ mka timer sak-life 500
+#
+interface GigabitEthernet0/4/3
+ mtu 9000
+ description To_Circuit_910049383
+ undo shutdown
+ ip netstream inbound
+ ip netstream outbound
+ ip netstream sampler fix-packets 1024 inbound
+ ip netstream sampler fix-packets 1024 outbound
+ undo dcn
+#
+interface GigabitEthernet0/4/3.453
+ vlan-type dot1q 453
+ mtu 9000
+ description To_ANPPDCDCIRT02_GE0/4/3
+ ip binding vpn-instance P2MP
+ ip address 10.26.97.29 255.255.255.252
+ statistic enable
+ ospf authentication-mode md5 1 cipher %^%#iFX3S\(Z.;y>9;S,-]HWEFFU7__>ES^<=IA0zvvW%^%#
+ ospf cost 4
+ ospf network-type p2p
+ ospf timer hello 2
+ ospf timer retransmit 1
+ ospf enable 26 area 0.0.0.0
+ ip netstream inbound
+ ip netstream outbound
+ ip netstream sampler fix-packets 1024 inbound
+ ip netstream sampler fix-packets 1024 outbound
+ mka cak-mode static ckn a1 cak cipher %^%#3xBhD::#ST-$I&P#m0-Z+'3W>uAd00WZ{S<bx4g"ZGHVJj][V=)`k!~mM(0Sv<t6>[S8OB3|q<He=0a4(i2%<T_eTB\Vqs.xf,f+%^%#
+ macsec replay-window 512
+ macsec mode normal
+ macsec confidentiality-offset 50
+ macsec cipher-suite gcm-aes-256
+ mka keyserver priority 10
+ mka timer sak-life 500
+ macsec dot1q-in-clear
+#
+interface GigabitEthernet0/4/3.455
+ vlan-type dot1q 455
+ mtu 9000
+ description To_ANPDCCDCIRT02_P2MP
+ ip binding vpn-instance P2MP
+ ip address 10.26.97.25 255.255.255.252
+ statistic enable
+ ospf authentication-mode md5 1 cipher %^%#hxWL!"-%_8,mmON)Yel;AES3E.6nsE[F![<S/_-N%^%#
+ ospf cost 4
+ ospf network-type p2p
+ ospf timer hello 2
+ ospf timer retransmit 1
+ ospf enable 26 area 0.0.0.0
+ ip netstream inbound
+ ip netstream outbound
+ ip netstream sampler fix-packets 1024 inbound
+ ip netstream sampler fix-packets 1024 outbound
+ mka cak-mode static ckn a1 cak cipher %^%#h{NYCTeR$:#~WrO_-$P.W.4u,$Md(67iqIE3/670KE%'H)6vSW!vZGO8`"jL1rM/QYH;LCqMQQQzWbaG6Ff/.7g}gQW!A.Qgtxp"%^%#
+ macsec replay-window 512
+ macsec mode normal
+ macsec confidentiality-offset 50
+ macsec cipher-suite gcm-aes-256
+ mka keyserver priority 10
+ mka timer sak-life 500
+ macsec dot1q-in-clear
+#
+interface GigabitEthernet0/4/3.456
+ vlan-type dot1q 456
+ mtu 9000
+ description To_ANPDCCDCIRT02_GE0/4/3
+ ip binding vpn-instance P2MP
+ ip address 10.26.97.33 255.255.255.252
+ statistic enable
+ ospf authentication-mode md5 1 cipher %^%#xXVZ,~%0A1rx9g:_OqK+s>Hl)lG!@#5<9*1Bq5/+%^%#
+ ospf cost 4
+ ospf network-type p2p
+ ospf timer hello 2
+ ospf timer retransmit 1
+ ospf enable 26 area 0.0.0.0
+ ip netstream inbound
+ ip netstream outbound
+ ip netstream sampler fix-packets 1024 inbound
+ ip netstream sampler fix-packets 1024 outbound
+ mka cak-mode static ckn a1 cak cipher %^%#n.M*~p`r=4*y,O!05[#7=XKOH9juR1X[BDO6G<)*;6rK(.nIa=#|-l0maU~(}Y*f7oR=D/w)loYR8,d<NsLjCe:k$%JB0;CI*h<6%^%#
+ macsec replay-window 512
+ macsec mode normal
+ macsec confidentiality-offset 50
+ macsec cipher-suite gcm-aes-256
+ mka keyserver priority 10
+ mka timer sak-life 500
+ macsec dot1q-in-clear
+#
+interface GigabitEthernet0/4/3.457
+ vlan-type dot1q 457
+ mtu 9000
+ description ITI-HCS
+ ip binding vpn-instance ITI-HCS
+ ip address 51.14.51.153 255.255.255.252
+ statistic enable
+ ospf authentication-mode hmac-sha256 1 cipher %^%#K$/)R~q5H*_HIb3BodBA>#:aJQF~F3-lo]&~IRu8%^%#
+ ospf timer hello 2
+ ospf timer retransmit 1
+ mka cak-mode static ckn a1 cak cipher %^%#Smw[+H:J^)/9E81TwKc5CdW1M\/FeT!8]l8X_J((>~>L%aabn9F=!7Y@z#2V"Y.n3R/"z~i;a'P**ZqMKy'n'Y'F^U;HLg1qaFe(%^%#
+ macsec replay-window 512
+ macsec mode normal
+ macsec confidentiality-offset 50
+ macsec cipher-suite gcm-aes-256
+ mka keyserver priority 10
+ mka timer sak-life 500
+ macsec dot1q-in-clear
+#
+interface GigabitEthernet0/5/0
+ undo shutdown
+ eth-trunk 100
+ undo dcn
+#
+interface GigabitEthernet0/5/1
+ undo shutdown
+ eth-trunk 100
+ undo dcn
+#
+interface GigabitEthernet0/5/2
+ description To_ITPNHQSBRZ01C02_P2MP
+ undo shutdown
+ ip binding vpn-instance P2MP
+ ip address 10.26.23.229 255.255.255.252
+ ospf authentication-mode md5 1 cipher %^%#[gH}9KVa`LB0%u!f.&QM<k0M!zRmd2xFyw9^2oU/%^%#
+ ospf cost 20
+ ospf network-type p2p
+ ospf timer hello 2
+ ospf timer retransmit 1
+ ospf enable 26 area 0.0.0.0
+ ip netstream inbound
+ ip netstream outbound
+ ip netstream sampler fix-packets 1024 inbound
+ ip netstream sampler fix-packets 1024 outbound
+ undo dcn
+#
+interface GigabitEthernet0/5/3
+ description To_ITPNHQSBRZ01C01
+ undo shutdown
+ ip binding vpn-instance P2MP
+ ip address 10.26.241.77 255.255.255.252
+ ospf authentication-mode md5 1 cipher %^%#:^<v3f_GsNHeguKU!~aMs85<5lO3{@}2+;4/}YML%^%#
+ ospf cost 20
+ ospf network-type p2p
+ ospf timer hello 2
+ ospf timer retransmit 1
+ ospf enable 26 area 0.0.0.0
+ ip netstream inbound
+ ip netstream outbound
+ ip netstream sampler fix-packets 1024 inbound
+ ip netstream sampler fix-packets 1024 outbound
+ undo dcn
+#
+interface GigabitEthernet0/6/0
+ undo shutdown
+ eth-trunk 104
+ undo dcn
+#
+interface GigabitEthernet0/6/1
+ undo shutdown
+ eth-trunk 103
+ undo dcn
+#
+interface GigabitEthernet0/6/2
+ undo shutdown
+ undo dcn
+#
+interface GigabitEthernet0/6/3
+ undo shutdown
+ undo dcn
+#
+interface LoopBack0
+ ip address 10.10.10.10 255.255.255.255
+ ospf enable 1 area 0.0.0.0
+#
+interface LoopBack1
+ description MGMT_NCE
+ ip binding vpn-instance P2MP
+ ip address 10.26.251.2 255.255.255.255
+ ospf enable 26 area 0.0.0.0
+#
+interface LoopBack2
+ ip address 109.109.109.109 255.255.255.255
+ ospf enable 1 area 0.0.0.0
+#
+interface Nve1
+ source 109.109.109.109
+ bypass source 10.10.10.10
+ mac-address 00e0-f109-0109
+ vni 13039 head-end peer-list protocol bgp
+ vni 120002 head-end peer-list protocol bgp
+ vni 120003 head-end peer-list protocol bgp
+ vni 120004 head-end peer-list protocol bgp
+ vni 120005 head-end peer-list protocol bgp
+ vni 130006 head-end peer-list protocol bgp
+ vni 130010 head-end peer-list protocol bgp
+ vni 130021 head-end peer-list protocol bgp
+ vni 130026 head-end peer-list protocol bgp
+ vni 130041 head-end peer-list protocol bgp
+ vni 130042 head-end peer-list protocol bgp
+ vni 130044 head-end peer-list protocol bgp
+ vni 130045 head-end peer-list protocol bgp
+ vni 210020 head-end peer-list protocol bgp
+ vni 210030 head-end peer-list protocol bgp
+ vni 220261 head-end peer-list protocol bgp
+ vni 220262 head-end peer-list protocol bgp
+ vni 220263 head-end peer-list protocol bgp
+ vni 220264 head-end peer-list protocol bgp
+ vni 220265 head-end peer-list protocol bgp
+ vni 220268 head-end peer-list protocol bgp
+ vni 220269 head-end peer-list protocol bgp
+ vni 220996 head-end peer-list protocol bgp
+ vni 230201 head-end peer-list protocol bgp
+ vni 230202 head-end peer-list protocol bgp
+ vni 230203 head-end peer-list protocol bgp
+ vni 230204 head-end peer-list protocol bgp
+ vni 230205 head-end peer-list protocol bgp
+ vni 230206 head-end peer-list protocol bgp
+ vni 230209 head-end peer-list protocol bgp
+ vni 230210 head-end peer-list protocol bgp
+ vni 230211 head-end peer-list protocol bgp
+ vni 230212 head-end peer-list protocol bgp
+ vni 230213 head-end peer-list protocol bgp
+ vni 230214 head-end peer-list protocol bgp
+ vni 230219 head-end peer-list protocol bgp
+ vni 230220 head-end peer-list protocol bgp
+ vni 230276 head-end peer-list protocol bgp
+ vni 1101001 head-end peer-list protocol bgp
+ vni 1101002 head-end peer-list protocol bgp
+ vni 1303002 head-end peer-list protocol bgp
+#
+interface NULL0
+#
+return
+<ANPNHQDCIRT02>
+<ANPNHQDCIRT02>

@@ -1,0 +1,1380 @@
+<ANPNHQSBTZ01C02>screen-length 0 temporary
+Info: The configuration takes effect on the current user terminal interface only.
+<ANPNHQSBTZ01C02>screen-length 0 temporary
+Info: The configuration takes effect on the current user terminal interface only.
+<ANPNHQSBTZ01C02>display interface description
+PHY: Physical
+*down: administratively down
+^down: standby
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(d): Dampening Suppressed
+(p): port alarm down
+(dl): DLDP down
+(c): CFM down
+(ed): error down
+Interface                     PHY     Protocol Description                     
+100GE7/0/0                    up      up       To_ANPNHQSBTZ13D01              
+100GE7/0/1                    down    down                                     
+100GE7/0/2                    down    down                                     
+100GE7/0/3                    down    down                                     
+100GE7/0/4                    up      up       To_ANPNHQSBTZCAD01_P2P          
+100GE7/0/5                    up      up       To_ANPNHQSBTZCAD01_P2P          
+100GE7/0/6                    up      up       To_ANPNHQSBTZCBD01_P2P          
+100GE7/0/7                    up      up       To_ANPNHQSBTZCBD01_P2P          
+100GE7/0/8                    up      up       To_ANPNHQSBTZ11D01_P2P          
+100GE7/0/9                    up      up       To_ANPNHQSBTZ11D02_P2P          
+100GE7/0/10                   up      up       To_ANPNHQSBTZ12D01_P2P          
+100GE7/0/11                   up      up       To_ANPNHQSBTZ12D02_P2P          
+100GE7/0/12                   up      up       To_ANPNRRSBTZ11D01_P2P          
+100GE7/0/13                   up      up       To_NCE_Server_Switch01_02       
+100GE7/0/14                   up      up       To_ANPNHQSBTZNCE03              
+100GE7/0/15                   down    down                                     
+100GE7/0/16                   down    down                                     
+100GE7/0/17                   down    down                                     
+100GE7/0/18                   down    down                                     
+100GE7/0/19                   down    down                                     
+100GE7/0/20                   down    down                                     
+100GE7/0/21                   down    down                                     
+100GE7/0/22                   down    down                                     
+100GE7/0/23                   down    down                                     
+100GE7/0/24                   down    down                                     
+100GE7/0/25                   down    down                                     
+100GE7/0/26                   down    down                                     
+100GE7/0/27                   down    down                                     
+100GE7/0/28                   down    down                                     
+100GE7/0/29                   down    down                                     
+100GE7/0/30                   down    down                                     
+100GE7/0/31                   down    down                                     
+100GE7/0/32                   down    down                                     
+100GE7/0/33                   up      up       To_ANPNHQSBTZ01C01_L3Link       
+100GE7/0/34                   up      up       To_ANPNHQSBTZ01C01_PeerLink     
+100GE7/0/35                   up      up       To_ANPNHQSBTZ01C01_PeerLink     
+100GE8/0/0                    up      up       To_ANPNHQSBTZ13D01              
+100GE8/0/1                    down    down                                     
+100GE8/0/2                    down    down                                     
+100GE8/0/3                    down    down                                     
+100GE8/0/4                    up      up       To_ANPNHQSBTZCAD01_P2P          
+100GE8/0/5                    up      up       To_ANPNHQSBTZCAD01_P2P          
+100GE8/0/6                    up      up       To_ANPNHQSBTZCBD01_P2P          
+100GE8/0/7                    up      up       To_ANPNHQSBTZCBD01_P2P          
+100GE8/0/8                    up      up       To_ANPNHQSBTZ11D01_P2P          
+100GE8/0/9                    up      up       To_ANPNHQSBTZ11D02_P2P          
+100GE8/0/10                   up      up       To_ANPNHQSBTZ12D01_P2P          
+100GE8/0/11                   up      up       To_ANPNHQSBTZ12D02_P2P          
+100GE8/0/12                   up      up       To_ANPNRRSBTZ11D02_P2P          
+100GE8/0/13                   up      up       To_NCE_Server_Switch01_02       
+100GE8/0/14                   up      up       To_ANPNHQSBTZNCE04              
+100GE8/0/15                   down    down                                     
+100GE8/0/16                   down    down                                     
+100GE8/0/17                   down    down                                     
+100GE8/0/18                   down    down                                     
+100GE8/0/19                   down    down                                     
+100GE8/0/20                   down    down                                     
+100GE8/0/21                   down    down                                     
+100GE8/0/22                   down    down                                     
+100GE8/0/23                   down    down                                     
+100GE8/0/24                   down    down                                     
+100GE8/0/25                   down    down                                     
+100GE8/0/26                   down    down                                     
+100GE8/0/27                   down    down                                     
+100GE8/0/28                   down    down                                     
+100GE8/0/29                   down    down                                     
+100GE8/0/30                   down    down                                     
+100GE8/0/31                   down    down                                     
+100GE8/0/32                   down    down                                     
+100GE8/0/33                   up      up       To_ANPNHQSBTZ01C01_L3Link       
+100GE8/0/34                   up      up       To_ANPNHQSBTZ01C01_PeerLink     
+100GE8/0/35                   up      up       To_ANPNHQSBTZ01C01_PeerLink     
+10GE5/0/0                     up      up       To_ANPNHQFWTR01                 
+10GE5/0/1                     up      up       To_ANPNHQFWDT01_FI_VSYS         
+10GE5/0/2                     up      up       To_ANPNHQFWDT01_Root_Vsys       
+10GE5/0/3                     up      up       ANPNHQNPTZ01 x3 (SPAN Port)     
+10GE5/0/4                     up      up       To_ANPNHQRTTZ02                 
+10GE5/0/5                     up      up       ANPNHQNPTZ01 x4 (Data)          
+10GE5/0/6                     down    down                                     
+10GE5/0/7                     down    down                                     
+10GE5/0/8                     down    down                                     
+10GE5/0/9                     up      up       To_AN_QMZ_Router_ANPNHQRTZ02    
+10GE5/0/10                    down    down                                     
+10GE5/0/11                    down    down                                     
+10GE5/0/12                    down    down                                     
+10GE5/0/13                    down    down                                     
+10GE5/0/14                    down    down                                     
+10GE5/0/15                    down    down                                     
+10GE5/0/16                    down    down                                     
+10GE5/0/17                    down    down                                     
+10GE5/0/18                    down    down                                     
+10GE5/0/19                    down    down                                     
+10GE5/0/20                    down    down                                     
+10GE5/0/21                    down    down                                     
+10GE5/0/22                    down    down                                     
+10GE5/0/23                    down    down                                     
+10GE5/0/24                    down    down                                     
+10GE5/0/25                    down    down                                     
+10GE5/0/26                    down    down                                     
+10GE5/0/27                    down    down                                     
+10GE5/0/28                    down    down                                     
+10GE5/0/29                    down    down                                     
+10GE5/0/30                    down    down                                     
+10GE5/0/31                    down    down                                     
+10GE5/0/32                    down    down                                     
+10GE5/0/33                    down    down                                     
+10GE5/0/34                    down    down                                     
+10GE5/0/35                    down    down                                     
+10GE5/0/36                    down    down                                     
+10GE5/0/37                    down    down                                     
+10GE5/0/38                    down    down                                     
+10GE5/0/39                    down    down                                     
+10GE5/0/40                    down    down                                     
+10GE5/0/41                    up      up       To_ANPNRRDCIRT09_P2MP           
+10GE5/0/42                    down    down                                     
+10GE5/0/43                    down    down                                     
+10GE5/0/44                    down    down                                     
+10GE5/0/45                    down    down                                     
+10GE5/0/46                    down    down                                     
+10GE5/0/47                    up      up       To_ANPNHQSBTZ01C01_Keepalive    
+10GE6/0/0                     up      up       To_ANPNHQFWTR02                 
+10GE6/0/1                     up      up       To_ANPNHQFWDT02_FI_VSYS         
+10GE6/0/2                     up      up       To_ANPNHQFWDT02_Root_VSYS       
+10GE6/0/3                     down    down                                     
+10GE6/0/4                     up      up       To_ANPNHQRTTZ02                 
+10GE6/0/5                     down    down                                     
+10GE6/0/6                     down    down                                     
+10GE6/0/7                     down    down                                     
+10GE6/0/8                     down    down                                     
+10GE6/0/9                     down    down                                     
+10GE6/0/10                    down    down                                     
+10GE6/0/11                    down    down                                     
+10GE6/0/12                    down    down                                     
+10GE6/0/13                    down    down                                     
+10GE6/0/14                    down    down                                     
+10GE6/0/15                    down    down                                     
+10GE6/0/16                    down    down                                     
+10GE6/0/17                    down    down                                     
+10GE6/0/18                    down    down                                     
+10GE6/0/19                    down    down                                     
+10GE6/0/20                    down    down                                     
+10GE6/0/21                    down    down                                     
+10GE6/0/22                    down    down                                     
+10GE6/0/23                    down    down                                     
+10GE6/0/24                    down    down                                     
+10GE6/0/25                    down    down                                     
+10GE6/0/26                    down    down                                     
+10GE6/0/27                    down    down                                     
+10GE6/0/28                    down    down                                     
+10GE6/0/29                    down    down                                     
+10GE6/0/30                    down    down                                     
+10GE6/0/31                    down    down                                     
+10GE6/0/32                    down    down                                     
+10GE6/0/33                    down    down                                     
+10GE6/0/34                    down    down                                     
+10GE6/0/35                    down    down                                     
+10GE6/0/36                    down    down                                     
+10GE6/0/37                    down    down                                     
+10GE6/0/38                    down    down                                     
+10GE6/0/39                    down    down                                     
+10GE6/0/40                    down    down                                     
+10GE6/0/41                    up      up       To_ANPNRRDCIRT10_P2MP           
+10GE6/0/42                    down    down                                     
+10GE6/0/43                    down    down                                     
+10GE6/0/44                    down    down                                     
+10GE6/0/45                    down    down                                     
+10GE6/0/46                    down    down                                     
+10GE6/0/47                    up      up       To_ANPNHQSBTZ01C01_Keepalive    
+Eth-Trunk1                    up      up       To_ANPNHQRTTZ02                 
+Eth-Trunk21                   up      up       To_ANPNHQFWDT01_Root_Vsys       
+Eth-Trunk22                   up      up       To_ANPNHQFWDT02_Root_VSYS       
+Eth-Trunk23                   up      up       To_ANPNHQFWDT01_FI_VSYS         
+Eth-Trunk24                   up      up       To_ANPNHQFWDT02_FI_VSYS         
+Eth-Trunk25                   up      up       To_ANPNHQFWTR01                 
+Eth-Trunk26                   up      up       To_ANPNHQFWTR02                 
+Eth-Trunk27                   up      up       To_NCE_Server_Switch01_02       
+Eth-Trunk28                   up      up       To_ANPNHQSBTZ01C01_L3Link       
+Eth-Trunk29                   up      up       To_ANPNHQSBTZ01C01_Keepalive    
+Eth-Trunk30                   up      up       To_ANPNHQSBTZ01C01_PeerLink     
+Eth-Trunk31                   up      up       To_ANPNHQSBTZ13D01              
+Eth-Trunk32                   up      up       To_ANPNHQSBTZ13D02              
+Eth-Trunk35                   up      up       To_NCE_Server_Switch03_04       
+Eth-Trunk72                   up      up       To_ANPNHQSBTZ12D02_P2P          
+Eth-Trunk73                   up      up       To_ANPNHQSBTZ12D01_P2P          
+Eth-Trunk76                   up      up       To_ANPNHQSBTZ11D02_P2P          
+Eth-Trunk77                   up      up       To_ANPNHQSBTZ11D01_P2P          
+Eth-Trunk80                   up      up       To_ANPNHQSBTZCBD01_P2P          
+Eth-Trunk82                   up      up       To_ANPNHQSBTZCAD01_P2P          
+Loop0                         up      up(s)                                    
+MEth0/0/0                     up      up                                       
+NULL0                         up      up(s)                                    
+Sip9/0/0                      down    down                                     
+Sip9/0/1                      down    down                                     
+Sip10/0/0                     down    down                                     
+Sip10/0/1                     down    down                                     
+Vlanif26                      up      up       AN_DTFW_to_TRZ_CoreSwitch       
+Vlanif201                     *down   down                                     
+Vlanif206                     *down   down                                     
+Vlanif215                     up      up       APIS_Interconnection            
+Vlanif243                     up      up       AN_NCE_NorthBound               
+Vlanif244                     up      up       AN_NCE_SouthBound               
+Vlanif246                     up      up       ITI-NHQ-Prod-HCS                
+Vlanif247                     up      up       AN_To_MCN_DoubleFW              
+<ANPNHQSBTZ01C02>display lldp neighbor brief
+Local Interface         Exptime(s) Neighbor Interface            Neighbor Device     
+-------------------------------------------------------------------------------------
+100GE7/0/0                     94  100GE1/0/52                   ANPNHQSBTZ13D01
+100GE7/0/4                    106  100GE1/4/0/7                  ANPNHQSBTZCAD01
+100GE7/0/5                    106  100GE2/4/0/6                  ANPNHQSBTZCAD01
+100GE7/0/6                    104  100GE1/4/0/6                  ANPNHQSBTZCBD01
+100GE7/0/7                    104  100GE2/4/0/6                  ANPNHQSBTZCBD01
+100GE7/0/8                    100  100GE1/0/55                   ANPNHQSBTZ11D01
+100GE7/0/9                     92  100GE1/0/55                   ANPNHQSBTZ11D02
+100GE7/0/10                   103  100GE1/0/56                   ANPNHQSBTZ12D01
+100GE7/0/11                   117  100GE1/0/55                   ANPNHQSBTZ12D02
+100GE7/0/12                   110  100GE1/0/2                    ANPNRRSBTZ11D01
+100GE7/0/13                   113  100GE1/0/2                    ANPNHQSBTZNCE01
+100GE7/0/14                    93  100GE1/0/2                    ANPNHQSBTZNCE03
+100GE7/0/33                   100  100GE7/0/33                   ANPNHQSBTZ01C01
+100GE7/0/34                   101  100GE7/0/34                   ANPNHQSBTZ01C01
+100GE7/0/35                   100  100GE7/0/35                   ANPNHQSBTZ01C01
+100GE8/0/0                    106  100GE1/0/52                   ANPNHQSBTZ13D02
+100GE8/0/4                    105  100GE1/4/0/6                  ANPNHQSBTZCAD01
+100GE8/0/5                    105  100GE2/4/0/7                  ANPNHQSBTZCAD01
+100GE8/0/6                    103  100GE1/4/0/7                  ANPNHQSBTZCBD01
+100GE8/0/7                    103  100GE2/4/0/7                  ANPNHQSBTZCBD01
+100GE8/0/8                     99  100GE1/0/56                   ANPNHQSBTZ11D01
+100GE8/0/9                     92  100GE1/0/56                   ANPNHQSBTZ11D02
+100GE8/0/10                   103  100GE1/0/55                   ANPNHQSBTZ12D01
+100GE8/0/11                   117  100GE1/0/56                   ANPNHQSBTZ12D02
+100GE8/0/12                   104  100GE1/0/2                    ANPNRRSBTZ11D02
+100GE8/0/13                    92  100GE1/0/2                    ANPNHQSBTZNCE02
+100GE8/0/14                   112  100GE1/0/2                    ANPNHQSBTZNCE04
+100GE8/0/33                   112  100GE8/0/33                   ANPNHQSBTZ01C01
+100GE8/0/34                   108  100GE8/0/34                   ANPNHQSBTZ01C01
+100GE8/0/35                   108  100GE8/0/35                   ANPNHQSBTZ01C01
+10GE5/0/0                     105  541                           ANPNHQFWTR02
+10GE5/0/1                     120  10GE0/0/27                    ANPNHQFWDT01
+10GE5/0/2                     120  10GE0/0/23                    ANPNHQFWDT01
+10GE5/0/5                     103  Northbound                    ANPNHQNPTZ01
+10GE5/0/41                     97  GigabitEthernet0/5/2          ANPNHQDCIRT01
+10GE5/0/47                    119  10GE5/0/47                    ANPNHQSBTZ01C01
+10GE6/0/0                      95  510                           ANPNHQFWTR02
+10GE6/0/1                     102  10GE0/0/27                    ANPNHQFWDT02
+10GE6/0/2                     101  10GE0/0/23                    ANPNHQFWDT02
+10GE6/0/41                     93  GigabitEthernet0/5/3          ANPNHQDCIRT02
+10GE6/0/47                    116  10GE6/0/47                    ANPNHQSBTZ01C01
+MEth0/0/0                     102  10GE1/0/3                     TEMP_OOB_FR_DEV_AN
+<ANPNHQSBTZ01C02>display current-configuration interface
+#
+interface Vlanif26
+ description AN_DTFW_to_TRZ_CoreSwitch
+ ip address 10.26.200.164 255.255.255.248
+ ospf enable 26 area 0.0.0.0
+ ospf source sub-address 10.26.200.166
+ mac-address 0000-5e00-3026
+ m-lag ip address 10.26.200.166 255.255.255.248
+ statistics enable
+#
+interface Vlanif201
+ shutdown
+ ip address 10.26.120.1 255.255.255.0
+ ospf enable 26 area 0.0.0.0
+ mac-address 0000-5e00-3201
+ m-lag ip address 10.26.120.3 255.255.255.0
+ statistics enable
+#
+interface Vlanif206
+ shutdown
+ ip address 10.26.122.225 255.255.255.240
+ ospf enable 26 area 0.0.0.0
+ mac-address 0000-5e00-3206
+ statistics enable
+#
+interface Vlanif215
+ description APIS_Interconnection
+ ip address 10.26.123.225 255.255.255.248
+ ospf enable 26 area 0.0.0.0
+ mac-address 0000-5e00-3215
+ statistics enable
+#
+interface Vlanif243
+ description AN_NCE_NorthBound
+ ip address 10.26.22.65 255.255.255.224
+ ospf enable 26 area 0.0.0.0
+ mac-address 0000-5e00-3243
+ statistics enable
+#
+interface Vlanif244
+ description AN_NCE_SouthBound
+ ip address 10.26.22.97 255.255.255.224
+ ospf enable 26 area 0.0.0.0
+ mac-address 0000-5e00-3244
+ statistics enable
+#
+interface Vlanif246
+ description ITI-NHQ-Prod-HCS
+ ip address 10.26.62.249 255.255.255.248
+ ospf authentication-mode hmac-sha256 1 cipher %^%#D:-l(!TI$Qn(df)GatB4PysxI]TLQVTfRa6egYM#%^%#
+ ospf cost 100
+ ospf timer hello 2
+ ospf enable 26 area 0.0.0.0
+ ospf source sub-address 10.26.62.251
+ mac-address 0000-5e00-3245
+ m-lag ip address 10.26.62.251 255.255.255.248
+ statistics enable
+#
+interface Vlanif247
+ description AN_To_MCN_DoubleFW
+ ip address 10.26.20.1 255.255.255.0
+ ospf enable 26 area 0.0.0.0
+ mac-address 0000-5e00-3247
+ m-lag ip address 10.26.20.3 255.255.255.0
+ statistics enable
+#
+interface MEth0/0/0
+ ip binding vpn-instance 11
+ ip address 10.26.169.203 255.255.255.192
+#
+interface Eth-Trunk1
+ undo portswitch
+ description To_ANPNHQRTTZ02
+ ip address 10.26.200.93 255.255.255.252
+ ospf authentication-mode md5 1 cipher %^%#Q$0Q*8\P+B/MQl"%E5=/h_{(ZblO2#G{!j2`yXSY%^%#
+ ospf cost 20
+ ospf network-type p2p
+ ospf timer hello 2
+ ospf timer retransmit 1
+ ospf enable 26 area 0.0.0.0
+ mode lacp-static
+#
+interface Eth-Trunk21
+ description To_ANPNHQFWDT01_Root_Vsys
+ port default vlan 26
+ mode lacp-static
+ dfs-group 1 m-lag 21
+#
+interface Eth-Trunk22
+ description To_ANPNHQFWDT02_Root_VSYS
+ port default vlan 26
+ mode lacp-static
+ dfs-group 1 m-lag 22
+#
+interface Eth-Trunk23
+ description To_ANPNHQFWDT01_FI_VSYS
+ port default vlan 243
+ mode lacp-static
+ dfs-group 1 m-lag 23
+#
+interface Eth-Trunk24
+ description To_ANPNHQFWDT02_FI_VSYS
+ port default vlan 243
+ mode lacp-static
+ dfs-group 1 m-lag 24
+#
+interface Eth-Trunk25
+ description To_ANPNHQFWTR01
+ port link-type trunk
+ undo port trunk allow-pass vlan 1
+ port trunk allow-pass vlan 201 247
+ mode lacp-static
+ dfs-group 1 m-lag 25
+#
+interface Eth-Trunk26
+ description To_ANPNHQFWTR02
+ port link-type trunk
+ undo port trunk allow-pass vlan 1
+ port trunk allow-pass vlan 201 247
+ mode lacp-static
+ dfs-group 1 m-lag 26
+#
+interface Eth-Trunk27
+ description To_NCE_Server_Switch01_02
+ port link-type trunk
+ undo port trunk allow-pass vlan 1
+ port trunk allow-pass vlan 215 243 to 244
+ mode lacp-static
+ dfs-group 1 m-lag 27
+#
+interface Eth-Trunk28
+ undo portswitch
+ description To_ANPNHQSBTZ01C01_L3Link
+ ip address 10.26.241.18 255.255.255.252
+ ospf authentication-mode hmac-sha256 1 cipher %^%#vr(}:~=A<&"@]HRVl=gI:"LP@ou#\&I,h^->^XuC%^%#
+ ospf cost 20
+ ospf network-type p2p
+ ospf timer hello 2
+ ospf timer retransmit 1
+ ospf enable 26 area 0.0.0.0
+ mode lacp-static
+#
+interface Eth-Trunk29
+ undo portswitch
+ description To_ANPNHQSBTZ01C01_Keepalive
+ ip binding vpn-instance keepalive
+ ip address 192.168.100.2 255.255.255.252
+ mode lacp-static
+ m-lag unpaired-port reserved
+#
+interface Eth-Trunk30
+ description To_ANPNHQSBTZ01C01_PeerLink
+ mode lacp-static
+ peer-link 1
+ port vlan exclude 1 
+#
+interface Eth-Trunk31
+ description To_ANPNHQSBTZ13D01
+ port default vlan 246
+ mode lacp-static
+ dfs-group 1 m-lag 31
+#
+interface Eth-Trunk32
+ description To_ANPNHQSBTZ13D02
+ port default vlan 246
+ mode lacp-static
+ dfs-group 1 m-lag 32
+#
+interface Eth-Trunk35
+ description To_NCE_Server_Switch03_04
+ port link-type trunk
+ undo port trunk allow-pass vlan 1
+ port trunk allow-pass vlan 243 to 244
+ mode lacp-static
+ dfs-group 1 m-lag 35
+#
+interface Eth-Trunk72
+ undo portswitch
+ description To_ANPNHQSBTZ12D02_P2P
+ ip address 10.26.22.45 255.255.255.252
+ ospf authentication-mode hmac-sha256 1 cipher %^%#kB'8*#N`W&6=K8Gbh0VR_5>y~,<\A=f;VP-J&S$$%^%#
+ ospf cost 20
+ ospf network-type p2p
+ ospf timer hello 2
+ ospf timer retransmit 1
+ ospf enable 26 area 0.0.0.0
+ mode lacp-static
+#
+interface Eth-Trunk73
+ undo portswitch
+ description To_ANPNHQSBTZ12D01_P2P
+ ip address 10.26.22.37 255.255.255.252
+ ospf authentication-mode hmac-sha256 1 cipher %^%#eX}|C~b'U90Q:*4L|Qg'd|`v!n@k^R6^\]1tgy`W%^%#
+ ospf cost 20
+ ospf network-type p2p
+ ospf timer hello 2
+ ospf timer retransmit 1
+ ospf enable 26 area 0.0.0.0
+ mode lacp-static
+#
+interface Eth-Trunk76
+ undo portswitch
+ description To_ANPNHQSBTZ11D02_P2P
+ ip address 10.26.22.29 255.255.255.252
+ ospf authentication-mode hmac-sha256 1 cipher %^%#@|WMO~*b'8oRk>H2J5,M)GYw0^';V3++~2Y3PB\>%^%#
+ ospf cost 20
+ ospf network-type p2p
+ ospf timer hello 2
+ ospf timer retransmit 1
+ ospf enable 26 area 0.0.0.0
+ mode lacp-static
+#
+interface Eth-Trunk77
+ undo portswitch
+ description To_ANPNHQSBTZ11D01_P2P
+ ip address 10.26.22.21 255.255.255.252
+ ospf authentication-mode hmac-sha256 1 cipher %^%#*VHnA0B,[69"^&'3&nbM4)J_NNPuQB5^jPNmxbB8%^%#
+ ospf cost 20
+ ospf network-type p2p
+ ospf timer hello 2
+ ospf timer retransmit 1
+ ospf enable 26 area 0.0.0.0
+ mode lacp-static
+#
+interface Eth-Trunk80
+ undo portswitch
+ description To_ANPNHQSBTZCBD01_P2P
+ ip address 10.26.22.13 255.255.255.252
+ ospf authentication-mode hmac-sha256 1 cipher %^%#tn^tIA4_y2bsIq*(U(z&J{hV:5`X4*IZ[TH*%T1C%^%#
+ ospf cost 20
+ ospf network-type p2p
+ ospf timer hello 2
+ ospf timer retransmit 1
+ ospf enable 26 area 0.0.0.0
+ mode lacp-static
+#
+interface Eth-Trunk82
+ undo portswitch
+ description To_ANPNHQSBTZCAD01_P2P
+ ip address 10.26.22.5 255.255.255.252
+ ospf authentication-mode hmac-sha256 1 cipher %^%#2m_uRN*;GE;XKbD/q6m:fWw^%V,T%F(9bJM/WHc3%^%#
+ ospf cost 20
+ ospf network-type p2p
+ ospf timer hello 2
+ ospf timer retransmit 1
+ ospf enable 26 area 0.0.0.0
+ mode lacp-static
+#
+interface 10GE5/0/0
+ description To_ANPNHQFWTR01
+ eth-trunk 25
+ port-mirroring observe-port 1 inbound
+ port-mirroring observe-port 1 outbound
+ device transceiver 10GBASE-FIBER
+#
+interface 10GE5/0/1
+ description To_ANPNHQFWDT01_FI_VSYS
+ netstream inbound ip
+ netstream outbound ip
+ eth-trunk 23
+ device transceiver 10GBASE-FIBER
+#
+interface 10GE5/0/2
+ description To_ANPNHQFWDT01_Root_Vsys
+ netstream inbound ip
+ netstream outbound ip
+ eth-trunk 21
+ device transceiver 10GBASE-FIBER
+#
+interface 10GE5/0/3
+ description ANPNHQNPTZ01 x3 (SPAN Port)
+ device transceiver 10GBASE-FIBER
+#
+interface 10GE5/0/4
+ description To_ANPNHQRTTZ02
+ netstream inbound ip
+ netstream outbound ip
+ eth-trunk 1
+ port-mirroring observe-port 1 inbound
+ port-mirroring observe-port 1 outbound
+ device transceiver 1000BASE-X
+#
+interface 10GE5/0/5
+ description ANPNHQNPTZ01 x4 (Data)
+ port default vlan 243
+ netstream inbound ip
+ netstream outbound ip
+ device transceiver 10GBASE-FIBER
+#
+interface 10GE5/0/6
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 10GE5/0/7
+ netstream inbound ip
+ netstream outbound ip
+ device transceiver 1000BASE-X
+#
+interface 10GE5/0/8
+ netstream inbound ip
+ netstream outbound ip
+ device transceiver 1000BASE-X
+#
+interface 10GE5/0/9
+ undo portswitch
+ description To_AN_QMZ_Router_ANPNHQRTZ02
+ ip address 10.26.200.150 255.255.255.252
+ ospf authentication-mode md5 1 cipher %^%#:nY:$Draj0\aT=-f%QgB{l.~<wjz3~L1HK-yaf[$%^%#
+ ospf cost 20
+ ospf timer hello 2
+ ospf timer retransmit 1
+ ospf enable 26 area 0.0.0.0
+ netstream inbound ip
+ netstream outbound ip
+ device transceiver 1000BASE-X
+#
+interface 10GE5/0/10
+ netstream inbound ip
+ netstream outbound ip
+ device transceiver 10GBASE-FIBER
+#
+interface 10GE5/0/11
+ netstream inbound ip
+ netstream outbound ip
+ device transceiver 10GBASE-FIBER
+#
+interface 10GE5/0/12
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 10GE5/0/13
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 10GE5/0/14
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 10GE5/0/15
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 10GE5/0/16
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 10GE5/0/17
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 10GE5/0/18
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 10GE5/0/19
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 10GE5/0/20
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 10GE5/0/21
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 10GE5/0/22
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 10GE5/0/23
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 10GE5/0/24
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 10GE5/0/25
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 10GE5/0/26
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 10GE5/0/27
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 10GE5/0/28
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 10GE5/0/29
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 10GE5/0/30
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 10GE5/0/31
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 10GE5/0/32
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 10GE5/0/33
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 10GE5/0/34
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 10GE5/0/35
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 10GE5/0/36
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 10GE5/0/37
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 10GE5/0/38
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 10GE5/0/39
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 10GE5/0/40
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 10GE5/0/41
+ undo portswitch
+ description To_ANPNRRDCIRT09_P2MP
+ ip address 10.26.23.226 255.255.255.252
+ ospf authentication-mode md5 1 cipher %^%#,&@c(gXDGQ8P&X$^{dOKDDYJ3:*)=MhB\>5p.E5S%^%#
+ ospf cost 20
+ ospf network-type p2p
+ ospf timer hello 2
+ ospf timer retransmit 1
+ ospf enable 26 area 0.0.0.0
+ netstream inbound ip
+ netstream outbound ip
+ port-mirroring observe-port 1 inbound
+ port-mirroring observe-port 1 outbound
+ device transceiver 10GBASE-FIBER
+#
+interface 10GE5/0/42
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 10GE5/0/43
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 10GE5/0/44
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 10GE5/0/45
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 10GE5/0/46
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 10GE5/0/47
+ description To_ANPNHQSBTZ01C01_Keepalive
+ eth-trunk 29
+ device transceiver 10GBASE-FIBER
+#
+interface 10GE6/0/0
+ description To_ANPNHQFWTR02
+ eth-trunk 26
+ port-mirroring observe-port 1 inbound
+ port-mirroring observe-port 1 outbound
+ device transceiver 10GBASE-FIBER
+#
+interface 10GE6/0/1
+ description To_ANPNHQFWDT02_FI_VSYS
+ netstream inbound ip
+ netstream outbound ip
+ eth-trunk 24
+ device transceiver 10GBASE-FIBER
+#
+interface 10GE6/0/2
+ description To_ANPNHQFWDT02_Root_VSYS
+ netstream inbound ip
+ netstream outbound ip
+ eth-trunk 22
+ device transceiver 10GBASE-FIBER
+#
+interface 10GE6/0/3
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 10GE6/0/4
+ description To_ANPNHQRTTZ02
+ netstream inbound ip
+ netstream outbound ip
+ eth-trunk 1
+ port-mirroring observe-port 1 inbound
+ port-mirroring observe-port 1 outbound
+ device transceiver 1000BASE-X
+#
+interface 10GE6/0/5
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 10GE6/0/6
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 10GE6/0/7
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 10GE6/0/8
+ netstream inbound ip
+ netstream outbound ip
+ device transceiver 10GBASE-FIBER
+#
+interface 10GE6/0/9
+ netstream inbound ip
+ netstream outbound ip
+ device transceiver 10GBASE-FIBER
+#
+interface 10GE6/0/10
+ netstream inbound ip
+ netstream outbound ip
+ device transceiver 10GBASE-FIBER
+#
+interface 10GE6/0/11
+ netstream inbound ip
+ netstream outbound ip
+ device transceiver 10GBASE-FIBER
+#
+interface 10GE6/0/12
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 10GE6/0/13
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 10GE6/0/14
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 10GE6/0/15
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 10GE6/0/16
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 10GE6/0/17
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 10GE6/0/18
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 10GE6/0/19
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 10GE6/0/20
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 10GE6/0/21
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 10GE6/0/22
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 10GE6/0/23
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 10GE6/0/24
+ netstream inbound ip
+ netstream outbound ip
+ device transceiver 10GBASE-FIBER
+#
+interface 10GE6/0/25
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 10GE6/0/26
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 10GE6/0/27
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 10GE6/0/28
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 10GE6/0/29
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 10GE6/0/30
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 10GE6/0/31
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 10GE6/0/32
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 10GE6/0/33
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 10GE6/0/34
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 10GE6/0/35
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 10GE6/0/36
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 10GE6/0/37
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 10GE6/0/38
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 10GE6/0/39
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 10GE6/0/40
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 10GE6/0/41
+ undo portswitch
+ description To_ANPNRRDCIRT10_P2MP
+ ip address 10.26.241.78 255.255.255.252
+ ospf authentication-mode md5 1 cipher %^%#{K+OX6W,K%VdVC+w&ZP0wJzBI"I|V6IT+jSW#+@'%^%#
+ ospf cost 20
+ ospf network-type p2p
+ ospf timer hello 2
+ ospf timer retransmit 1
+ ospf enable 26 area 0.0.0.0
+ netstream inbound ip
+ netstream outbound ip
+ port-mirroring observe-port 1 inbound
+ port-mirroring observe-port 1 outbound
+ device transceiver 10GBASE-FIBER
+#
+interface 10GE6/0/42
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 10GE6/0/43
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 10GE6/0/44
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 10GE6/0/45
+ netstream inbound ip
+ netstream outbound ip
+ device transceiver 10GBASE-FIBER
+#
+interface 10GE6/0/46
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 10GE6/0/47
+ description To_ANPNHQSBTZ01C01_Keepalive
+ eth-trunk 29
+ device transceiver 10GBASE-FIBER
+#
+interface 100GE7/0/0
+ description To_ANPNHQSBTZ13D01
+ eth-trunk 31
+ device transceiver 40GBASE-FIBER
+#
+interface 100GE7/0/1
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 100GE7/0/2
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 100GE7/0/3
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 100GE7/0/4
+ description To_ANPNHQSBTZCAD01_P2P
+ netstream inbound ip
+ netstream outbound ip
+ eth-trunk 82
+ device transceiver 40GBASE-FIBER
+#
+interface 100GE7/0/5
+ description To_ANPNHQSBTZCAD01_P2P
+ netstream inbound ip
+ netstream outbound ip
+ eth-trunk 82
+ device transceiver 40GBASE-FIBER
+#
+interface 100GE7/0/6
+ description To_ANPNHQSBTZCBD01_P2P
+ netstream inbound ip
+ netstream outbound ip
+ eth-trunk 80
+ device transceiver 40GBASE-FIBER
+#
+interface 100GE7/0/7
+ description To_ANPNHQSBTZCBD01_P2P
+ netstream inbound ip
+ netstream outbound ip
+ eth-trunk 80
+ device transceiver 40GBASE-FIBER
+#
+interface 100GE7/0/8
+ description To_ANPNHQSBTZ11D01_P2P
+ netstream inbound ip
+ netstream outbound ip
+ eth-trunk 77
+ device transceiver 40GBASE-FIBER
+#
+interface 100GE7/0/9
+ description To_ANPNHQSBTZ11D02_P2P
+ netstream inbound ip
+ netstream outbound ip
+ eth-trunk 76
+ device transceiver 40GBASE-FIBER
+#
+interface 100GE7/0/10
+ description To_ANPNHQSBTZ12D01_P2P
+ netstream inbound ip
+ netstream outbound ip
+ eth-trunk 73
+ device transceiver 40GBASE-FIBER
+#
+interface 100GE7/0/11
+ description To_ANPNHQSBTZ12D02_P2P
+ netstream inbound ip
+ netstream outbound ip
+ eth-trunk 72
+ device transceiver 40GBASE-FIBER
+#
+interface 100GE7/0/12
+ undo portswitch
+ description To_ANPNRRSBTZ11D01_P2P
+ ip address 10.26.22.53 255.255.255.252
+ ospf authentication-mode hmac-sha256 1 cipher %^%#[*Zv.+r!/W+.oY3;Gj#5K}Pb07b"/%W>-##jpc5-%^%#
+ ospf cost 20
+ ospf network-type p2p
+ ospf timer hello 2
+ ospf timer retransmit 1
+ ospf enable 26 area 0.0.0.0
+ netstream inbound ip
+ netstream outbound ip
+ device transceiver 40GBASE-FIBER
+#
+interface 100GE7/0/13
+ description To_NCE_Server_Switch01_02
+ netstream inbound ip
+ netstream outbound ip
+ eth-trunk 27
+ device transceiver 40GBASE-FIBER
+#
+interface 100GE7/0/14
+ description To_ANPNHQSBTZNCE03
+ netstream inbound ip
+ netstream outbound ip
+ eth-trunk 35
+ device transceiver 40GBASE-FIBER
+#
+interface 100GE7/0/15
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 100GE7/0/16
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 100GE7/0/17
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 100GE7/0/18
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 100GE7/0/19
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 100GE7/0/20
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 100GE7/0/21
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 100GE7/0/22
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 100GE7/0/23
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 100GE7/0/24
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 100GE7/0/25
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 100GE7/0/26
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 100GE7/0/27
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 100GE7/0/28
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 100GE7/0/29
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 100GE7/0/30
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 100GE7/0/31
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 100GE7/0/32
+ netstream inbound ip
+ netstream outbound ip
+ device transceiver 40GBASE-FIBER
+#
+interface 100GE7/0/33
+ description To_ANPNHQSBTZ01C01_L3Link
+ netstream inbound ip
+ netstream outbound ip
+ eth-trunk 28
+ device transceiver 40GBASE-FIBER
+#
+interface 100GE7/0/34
+ description To_ANPNHQSBTZ01C01_PeerLink
+ netstream inbound ip
+ netstream outbound ip
+ eth-trunk 30
+ device transceiver 40GBASE-FIBER
+#
+interface 100GE7/0/35
+ description To_ANPNHQSBTZ01C01_PeerLink
+ netstream inbound ip
+ netstream outbound ip
+ eth-trunk 30
+ device transceiver 40GBASE-FIBER
+#
+interface 100GE8/0/0
+ description To_ANPNHQSBTZ13D01
+ eth-trunk 32
+ device transceiver 40GBASE-FIBER
+#
+interface 100GE8/0/1
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 100GE8/0/2
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 100GE8/0/3
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 100GE8/0/4
+ description To_ANPNHQSBTZCAD01_P2P
+ netstream inbound ip
+ netstream outbound ip
+ eth-trunk 82
+ device transceiver 40GBASE-FIBER
+#
+interface 100GE8/0/5
+ description To_ANPNHQSBTZCAD01_P2P
+ netstream inbound ip
+ netstream outbound ip
+ eth-trunk 82
+ device transceiver 40GBASE-FIBER
+#
+interface 100GE8/0/6
+ description To_ANPNHQSBTZCBD01_P2P
+ netstream inbound ip
+ netstream outbound ip
+ eth-trunk 80
+ device transceiver 40GBASE-FIBER
+#
+interface 100GE8/0/7
+ description To_ANPNHQSBTZCBD01_P2P
+ netstream inbound ip
+ netstream outbound ip
+ eth-trunk 80
+ device transceiver 40GBASE-FIBER
+#
+interface 100GE8/0/8
+ description To_ANPNHQSBTZ11D01_P2P
+ netstream inbound ip
+ netstream outbound ip
+ eth-trunk 77
+ device transceiver 40GBASE-FIBER
+#
+interface 100GE8/0/9
+ description To_ANPNHQSBTZ11D02_P2P
+ netstream inbound ip
+ netstream outbound ip
+ eth-trunk 76
+ device transceiver 40GBASE-FIBER
+#
+interface 100GE8/0/10
+ description To_ANPNHQSBTZ12D01_P2P
+ netstream inbound ip
+ netstream outbound ip
+ eth-trunk 73
+ device transceiver 40GBASE-FIBER
+#
+interface 100GE8/0/11
+ description To_ANPNHQSBTZ12D02_P2P
+ netstream inbound ip
+ netstream outbound ip
+ eth-trunk 72
+ device transceiver 40GBASE-FIBER
+#
+interface 100GE8/0/12
+ undo portswitch
+ description To_ANPNRRSBTZ11D02_P2P
+ ip address 10.26.22.61 255.255.255.252
+ ospf authentication-mode hmac-sha256 1 cipher %^%#KB9u,>wV&+;`{N~Ibu2#AIa,Z}dV@)nVM=;1OEPS%^%#
+ ospf cost 20
+ ospf network-type p2p
+ ospf timer hello 2
+ ospf timer retransmit 1
+ ospf enable 26 area 0.0.0.0
+ netstream inbound ip
+ netstream outbound ip
+ device transceiver 40GBASE-FIBER
+#
+interface 100GE8/0/13
+ description To_NCE_Server_Switch01_02
+ netstream inbound ip
+ netstream outbound ip
+ eth-trunk 27
+ device transceiver 40GBASE-FIBER
+#
+interface 100GE8/0/14
+ description To_ANPNHQSBTZNCE04
+ netstream inbound ip
+ netstream outbound ip
+ eth-trunk 35
+ device transceiver 40GBASE-FIBER
+#
+interface 100GE8/0/15
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 100GE8/0/16
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 100GE8/0/17
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 100GE8/0/18
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 100GE8/0/19
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 100GE8/0/20
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 100GE8/0/21
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 100GE8/0/22
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 100GE8/0/23
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 100GE8/0/24
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 100GE8/0/25
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 100GE8/0/26
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 100GE8/0/27
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 100GE8/0/28
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 100GE8/0/29
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 100GE8/0/30
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 100GE8/0/31
+ netstream inbound ip
+ netstream outbound ip
+#
+interface 100GE8/0/32
+ netstream inbound ip
+ netstream outbound ip
+ device transceiver 40GBASE-FIBER
+#
+interface 100GE8/0/33
+ description To_ANPNHQSBTZ01C01_L3Link
+ netstream inbound ip
+ netstream outbound ip
+ eth-trunk 28
+ device transceiver 40GBASE-FIBER
+#
+interface 100GE8/0/34
+ description To_ANPNHQSBTZ01C01_PeerLink
+ netstream inbound ip
+ netstream outbound ip
+ eth-trunk 30
+ device transceiver 40GBASE-FIBER
+#
+interface 100GE8/0/35
+ description To_ANPNHQSBTZ01C01_PeerLink
+ netstream inbound ip
+ netstream outbound ip
+ eth-trunk 30
+ device transceiver 40GBASE-FIBER
+#
+interface LoopBack0
+ ip address 10.26.241.82 255.255.255.255
+ ospf enable 26 area 0.0.0.0
+#
+interface Sip9/0/0
+#
+interface Sip9/0/1
+#
+interface Sip10/0/0
+#
+interface Sip10/0/1
+#
+interface NULL0
+#
+return

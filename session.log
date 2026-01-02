@@ -1,0 +1,410 @@
+=~=~=~=~=~=~=~=~=~=~=~= MobaXterm log 2025.06.24 14:36:23 =~=~=~=~=~=~=~=~=~=~=~=
+Pre-authentication banner message from server:
+|
+| WARNING - PRIVATE ELECTRONIC DEVICE - ACCESS PROHIBITED
+| Any unauthorized access or use of this system is prohibited and
+| subject to criminal and civil prosecution.
+|
+| **************************************************
+| You are connecting to the device ITVNHQSBRZ01C01
+| ***************************************************
+|
+End of banner message from server
+Keyboard-interactive authentication prompts from server:
+| User Authentication
+| Enter password:
+End of keyboard-interactive prompts from server
+Pre-authentication banner message from server:
+|
+| Warning: Negotiated identity key for server authentication is not safe. It is
+>  recommended that you disable the insecure algorithm or upgrade the client.
+End of banner message from server
+
+You have connected to the device ITVNHQSBRZ01C01 successfully.
+
+
+Info: The max number of VTY users is 15, the number of current VTY users online is 1, and total number of terminal users online is 1.
+      The current login time is 2025-06-24 14:36:27+08:00.
+      The last login time is 2025-06-24 14:34:37+08:00 from 192.168.14.22 through SSH.
+<ITVNHQSBRZ01C01>ste
+<ITVNHQSBRZ01C01>stelnet 172.17.191.52
+Trying 172.17.191.52 ...
+Press CTRL + K to abort
+Connected to 172.17.191.52 ...
+Warning: The negotiated encryption, digest, key exchange or identity key algorithm is insecure. Using a security algorithm (AES256-GCM,SHA2-256, SHA2-512, ecdh_sha2_nistp256, ecdh_sha2_nistp384, ecdh_sha2_nistp521, diffie-hellman-group-exchange-sha256, rsa-sha2-256, rsa-sha2-512) is recommended.
+The server is not authenticated. Continue to access it? [Y/N]: y
+Save the server's public key? [Y/N]: n
+
+Please input the username: pccw2023
+WARNING - PRIVATE ELECTRONIC DEVICE - ACCESS PROHIBITED
+Any unauthorized access or use of this system is prohibited and
+subject to criminal and civil prosecution.
+
+**************************************************
+You are connecting to the device ITVNHQSBSZ11D02
+***************************************************
+
+
+Enter password:
+Warning: Negotiated identity key for server authentication is not safe. It is recommended that you disable the insecure algorithm or upgrade the client.
+
+Info: The max number of VTY users is 15, the number of current VTY users online is 1, and total number of terminal users online is 1.
+      The current login time is 2025-06-24 22:37:08+08:00.
+      The last login time is 2025-06-24 22:31:22+08:00 from 172.17.191.25 through SSH.
+<ITVNHQSBSZ11D02>screen-length 0 temporary
+Info: The configuration takes effect on the current user terminal interface only.
+<ITVNHQSBSZ11D02>
+<ITVNHQSBSZ11D02>display interface description
+PHY: Physical
+*down: administratively down
+^down: standby
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(d): Dampening Suppressed
+(p): port alarm down
+(dl): DLDP down
+(c): CFM down
+(ed): error down
+Interface                     PHY     Protocol Description
+100GE1/0/1                    up      up       To_ITVNHQSBSZ11T01
+100GE1/0/2                    down    down
+100GE1/0/3                    down    down
+100GE1/0/4                    down    down
+100GE1/0/5                    down    down
+100GE1/0/6                    down    down
+100GE1/0/7                    down    down
+100GE1/0/8                    down    down
+100GE1/0/9                    down    down
+100GE1/0/10                   down    down
+100GE1/0/11                   down    down
+100GE1/0/12                   down    down
+100GE1/0/13                   down    down
+100GE1/0/14                   down    down
+100GE1/0/15                   down    down
+100GE1/0/16                   down    down
+100GE1/0/17                   down    down
+100GE1/0/18                   down    down
+100GE1/0/19                   down    down
+100GE1/0/20                   down    down
+100GE1/0/21                   down    down
+100GE1/0/22                   down    down
+100GE1/0/23                   down    down
+100GE1/0/24                   down    down
+100GE1/0/25                   down    down
+100GE1/0/26                   down    down
+100GE1/0/27                   down    down
+100GE1/0/28                   down    down
+100GE1/0/29                   down    down
+100GE1/0/30                   down    down
+100GE1/0/31                   down    down
+100GE1/0/32                   down    down
+100GE1/0/33                   down    down
+100GE1/0/34                   down    down
+100GE1/0/35                   down    down
+100GE1/0/36                   down    down
+100GE1/0/37                   down    down
+100GE1/0/38                   down    down
+100GE1/0/39                   down    down
+100GE1/0/40                   down    down
+100GE1/0/41                   down    down
+100GE1/0/42                   down    down
+100GE1/0/43                   down    down
+100GE1/0/44                   down    down
+100GE1/0/45                   down    down
+100GE1/0/46                   down    down
+100GE1/0/47                   down    down
+100GE1/0/48                   down    down
+100GE1/0/49                   down    down
+100GE1/0/50                   down    down
+100GE1/0/51                   down    down
+100GE1/0/52                   down    down
+100GE1/0/53                   down    down
+100GE1/0/54                   down    down
+100GE1/0/55                   down    down
+100GE1/0/56                   up      up       To_ITVNHQFWSZ01_100GE0/0/1
+100GE1/0/57                   up      up       To_ITVNHQFWSZ01_40GE0/0/3
+100GE1/0/58                   up      up       To_ITVNHQSBRZ01C01_100GE4/0/28
+100GE1/0/59                   up      up       To_ITVNHQSBSZ11D01_L3_Link
+100GE1/0/60                   up      up       To_ITVNHQSBSZ11D01_L3_Link
+100GE1/0/61                   up      up       To_ITVNHQSBSZ11D01_PeerLink
+100GE1/0/62                   up      up       To_ITVNHQSBSZ11D01_PeerLink
+100GE1/0/63                   up      up       To_ITVNHQSBSZ11D01_PeerLink
+100GE1/0/64                   up      up       To_ITVNHQSBSZ11D01_PeerLink
+Eth-Trunk46                   up      up       To_ITVNHQSBRZ01C01
+Eth-Trunk49                   up      up       To_ITVNHQFWSZ01
+Eth-Trunk50                   up      up       To_ITVNHQFWSZ01
+Eth-Trunk51                   up      up       To_ITVNHQSBSZ11D01_L3_Link
+Eth-Trunk52                   up      up       To_ITVNHQSBSZ11D01_PeerLink
+Eth-Trunk101                  up      up       To_ITVNHQSBSZ11T01
+MEth0/0/0                     up      up       To_ITVNHQSBSZ11D01_Keepalive
+NULL0                         up      up(s)
+Vlanif881                     up      up       Northbound
+Vlanif882                     up      up       FI MGMT
+Vlanif883                     up      up       Infra Server OOB/MGMT
+Vlanif884                     up      up       To-FW
+<ITVNHQSBSZ11D02>
+<ITVNHQSBSZ11D02>display lldp neighbor brief
+Local Interface         Exptime(s) Neighbor Interface            Neighbor Device
+-------------------------------------------------------------------------------------
+100GE1/0/1                    113  100GE1/0/6                    ITVNHQSBSZ11T01
+100GE1/0/56                    99  100GE0/0/0                    ITVNHQFWSZ01
+100GE1/0/57                    99  40GE0/0/2                     ITVNHQFWSZ01
+100GE1/0/58                   102  100GE4/0/28                   ITVNHQSBRZ01C01
+100GE1/0/59                   100  100GE1/0/59                   ITVNHQSBSZ11D01
+100GE1/0/60                   101  100GE1/0/60                   ITVNHQSBSZ11D01
+100GE1/0/61                   101  100GE1/0/61                   ITVNHQSBSZ11D01
+100GE1/0/62                   101  100GE1/0/62                   ITVNHQSBSZ11D01
+100GE1/0/63                   101  100GE1/0/63                   ITVNHQSBSZ11D01
+100GE1/0/64                   101  100GE1/0/64                   ITVNHQSBSZ11D01
+MEth0/0/0                     112  MEth0/0/0                     ITVNHQSBSZ11D01
+<ITVNHQSBSZ11D02>
+<ITVNHQSBSZ11D02>display current-configuration interface
+#
+interface Vlanif881
+ description Northbound
+ ip binding vpn-instance FI-MON
+ ip address 192.168.14.89 255.255.255.248
+ mac-address 0000-5e00-5881
+ statistics enable
+#
+interface Vlanif882
+ description FI MGMT
+ ip binding vpn-instance FI-MON
+ ip address 192.168.14.67 255.255.255.240
+ statistics enable
+#
+interface Vlanif883
+ description Infra Server OOB/MGMT
+ ip address 172.17.191.49 255.255.255.240
+ mac-address 0000-5e00-5883
+ m-lag ip address 172.17.191.52 255.255.255.240
+ statistics enable
+#
+interface Vlanif884
+ description To-FW
+ ip address 172.17.191.33 255.255.255.248
+ mac-address 0000-5e00-5884
+ statistics enable
+#
+interface MEth0/0/0
+ description To_ITVNHQSBSZ11D01_Keepalive
+ ip binding vpn-instance keepalive
+ ip address 192.168.100.2 255.255.255.252
+#
+interface Eth-Trunk46
+ description To_ITVNHQSBRZ01C01
+ port link-type trunk
+ port trunk allow-pass vlan 881 to 884
+ netstream inbound ip
+ netstream outbound ip
+ mode lacp-static
+ dfs-group 1 m-lag 46
+#
+interface Eth-Trunk49
+ description To_ITVNHQFWSZ01
+ port default vlan 881
+ netstream inbound ip
+ netstream outbound ip
+ mode lacp-static
+ dfs-group 1 m-lag 49
+#
+interface Eth-Trunk50
+ description To_ITVNHQFWSZ01
+ port default vlan 884
+ netstream inbound ip
+ netstream outbound ip
+ mode lacp-static
+ dfs-group 1 m-lag 50
+#
+interface Eth-Trunk51
+ undo portswitch
+ description To_ITVNHQSBSZ11D01_L3_Link
+ ip address 172.17.191.42 255.255.255.252
+ netstream inbound ip
+ netstream outbound ip
+ mode lacp-static
+#
+interface Eth-Trunk52
+ description To_ITVNHQSBSZ11D01_PeerLink
+ mode lacp-static
+ peer-link 1
+ port vlan exclude 1
+#
+interface Eth-Trunk101
+ description To_ITVNHQSBSZ11T01
+ port link-type trunk
+ port trunk allow-pass vlan 881 to 884
+ netstream inbound ip
+ netstream outbound ip
+ mode lacp-static
+ dfs-group 1 m-lag 101
+#
+interface 100GE1/0/1
+ description To_ITVNHQSBSZ11T01
+ eth-trunk 101
+ device transceiver 40GBASE-FIBER
+#
+interface 100GE1/0/2
+#
+interface 100GE1/0/3
+#
+interface 100GE1/0/4
+#
+interface 100GE1/0/5
+#
+interface 100GE1/0/6
+#
+interface 100GE1/0/7
+#
+interface 100GE1/0/8
+#
+interface 100GE1/0/9
+#
+interface 100GE1/0/10
+#
+interface 100GE1/0/11
+#
+interface 100GE1/0/12
+#
+interface 100GE1/0/13
+#
+interface 100GE1/0/14
+#
+interface 100GE1/0/15
+#
+interface 100GE1/0/16
+#
+interface 100GE1/0/17
+#
+interface 100GE1/0/18
+#
+interface 100GE1/0/19
+#
+interface 100GE1/0/20
+#
+interface 100GE1/0/21
+#
+interface 100GE1/0/22
+#
+interface 100GE1/0/23
+#
+interface 100GE1/0/24
+#
+interface 100GE1/0/25
+#
+interface 100GE1/0/26
+#
+interface 100GE1/0/27
+#
+interface 100GE1/0/28
+#
+interface 100GE1/0/29
+#
+interface 100GE1/0/30
+#
+interface 100GE1/0/31
+#
+interface 100GE1/0/32
+#
+interface 100GE1/0/33
+#
+interface 100GE1/0/34
+#
+interface 100GE1/0/35
+#
+interface 100GE1/0/36
+#
+interface 100GE1/0/37
+#
+interface 100GE1/0/38
+#
+interface 100GE1/0/39
+#
+interface 100GE1/0/40
+#
+interface 100GE1/0/41
+#
+interface 100GE1/0/42
+#
+interface 100GE1/0/43
+#
+interface 100GE1/0/44
+#
+interface 100GE1/0/45
+#
+interface 100GE1/0/46
+#
+interface 100GE1/0/47
+#
+interface 100GE1/0/48
+#
+interface 100GE1/0/49
+#
+interface 100GE1/0/50
+#
+interface 100GE1/0/51
+#
+interface 100GE1/0/52
+#
+interface 100GE1/0/53
+#
+interface 100GE1/0/54
+#
+interface 100GE1/0/55
+#
+interface 100GE1/0/56
+ description To_ITVNHQFWSZ01_100GE0/0/1
+ eth-trunk 50
+ device transceiver 40GBASE-FIBER
+#
+interface 100GE1/0/57
+ description To_ITVNHQFWSZ01_40GE0/0/3
+ eth-trunk 49
+ device transceiver 40GBASE-FIBER
+#
+interface 100GE1/0/58
+ description To_ITVNHQSBRZ01C01_100GE4/0/28
+ eth-trunk 46
+ device transceiver 40GBASE-FIBER
+#
+interface 100GE1/0/59
+ description To_ITVNHQSBSZ11D01_L3_Link
+ eth-trunk 51
+ device transceiver 40GBASE-FIBER
+#
+interface 100GE1/0/60
+ description To_ITVNHQSBSZ11D01_L3_Link
+ eth-trunk 51
+ device transceiver 40GBASE-FIBER
+#
+interface 100GE1/0/61
+ description To_ITVNHQSBSZ11D01_PeerLink
+ eth-trunk 52
+ device transceiver 40GBASE-COPPER
+#
+interface 100GE1/0/62
+ description To_ITVNHQSBSZ11D01_PeerLink
+ eth-trunk 52
+ device transceiver 40GBASE-COPPER
+#
+interface 100GE1/0/63
+ description To_ITVNHQSBSZ11D01_PeerLink
+ eth-trunk 52
+ device transceiver 40GBASE-COPPER
+#
+interface 100GE1/0/64
+ description To_ITVNHQSBSZ11D01_PeerLink
+ eth-trunk 52
+ device transceiver 40GBASE-COPPER
+#
+interface NULL0
+#
+return
+<ITVNHQSBSZ11D02>
+<ITVNHQSBSZ11D02>qu
+Info: The max number of VTY users is 15, and the number of current VTY users on line is 0.
+Info: The connection was closed by the remote host.
+<ITVNHQSBRZ01C01>qu
+Info: The max number of VTY users is 15, and the number of current VTY users on line is 0.

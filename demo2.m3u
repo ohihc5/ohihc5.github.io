@@ -1,0 +1,1015 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="未分组",CCTV-1 综合
+https://sxj.btjson.us.kg/histar?id=cctv1
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="未分组",CCTV-2 财经
+https://sxj.btjson.us.kg/histar?id=cctv2
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="未分组",CCTV-3 综艺
+https://sxj.btjson.us.kg/histar?id=cctv3
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="未分组",CCTV-4 中文国际
+https://sxj.btjson.us.kg/histar?id=cctv4
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="未分组",CCTV-5 体育
+https://sxj.btjson.us.kg/histar?id=cctv5
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="未分组",CCTV-5+ 体育赛事
+https://sxj.btjson.us.kg/histar?id=cctv5plus
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="未分组",CCTV-6 电影
+https://sxj.btjson.us.kg/histar?id=cctv6
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="未分组",CCTV-7 国防军事
+https://sxj.btjson.us.kg/histar?id=cctv7
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="未分组",CCTV-8 电视剧
+https://sxj.btjson.us.kg/histar?id=cctv8
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="未分组",CCTV-9 纪录
+https://sxj.btjson.us.kg/histar?id=cctv9
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="未分组",CCTV-10 科教
+https://sxj.btjson.us.kg/histar?id=cctv10
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="未分组",CCTV-11 戏曲
+https://sxj.btjson.us.kg/histar?id=cctv11
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="未分组",CCTV-12 社会与法
+https://sxj.btjson.us.kg/histar?id=cctv12
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="未分组",CCTV-13 新闻
+https://sxj.btjson.us.kg/histar?id=cctv13
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="未分组",CCTV-14 少儿
+https://sxj.btjson.us.kg/histar?id=cctv14
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="未分组",CCTV-15 音乐
+https://sxj.btjson.us.kg/histar?id=cctv15
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="未分组",CCTV-16 奥林匹克
+https://sxj.btjson.us.kg/histar?id=cctv16
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="未分组",CCTV-17 农业农村
+https://sxj.btjson.us.kg/histar?id=cctv17
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="未分组",CHC家庭影院
+https://sxj.btjson.us.kg/histar?id=chc-jtyy
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="未分组",CHC动作电影
+https://sxj.btjson.us.kg/histar?id=chc-dzdy
+#EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png" group-title="未分组",CHC高清电影
+https://sxj.btjson.us.kg/histar?id=chc-gqdy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",重温经典
+https://sxj.btjson.us.kg/histar?id=cwjd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",ELTA奥运1台
+https://sxj.btjson.us.kg/histar?id=elta-oly1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",ELTA奥运2台
+https://sxj.btjson.us.kg/histar?id=elta-oly2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",ELTA奥运3台
+https://sxj.btjson.us.kg/histar?id=elta-oly3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",ELTA奥运4台
+https://sxj.btjson.us.kg/histar?id=elta-oly4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",ELTA奥运5台
+https://sxj.btjson.us.kg/histar?id=elta-oly5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",ELTA奥运6台
+https://sxj.btjson.us.kg/histar?id=elta-oly6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",ELTA奥运7台
+https://sxj.btjson.us.kg/histar?id=elta-oly7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",MyTVSuper奥运801
+https://sxj.btjson.us.kg/histar?id=mytvsuper-oly801
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",MyTVSuper奥运802
+https://sxj.btjson.us.kg/histar?id=mytvsuper-oly802
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",MyTVSuper奥运803
+https://sxj.btjson.us.kg/histar?id=mytvsuper-oly803
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",MyTVSuper奥运804
+https://sxj.btjson.us.kg/histar?id=mytvsuper-oly804
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",MyTVSuper奥运805
+https://sxj.btjson.us.kg/histar?id=mytvsuper-oly805
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",MyTVSuper奥运806
+https://sxj.btjson.us.kg/histar?id=mytvsuper-oly806
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",MyTVSuper奥运807
+https://sxj.btjson.us.kg/histar?id=mytvsuper-oly807
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",MyTVSuper奥运808
+https://sxj.btjson.us.kg/histar?id=mytvsuper-oly808
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",MyTVSuper奥运809
+https://sxj.btjson.us.kg/histar?id=mytvsuper-oly809
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",MyTVSuper奥运810
+https://sxj.btjson.us.kg/histar?id=mytvsuper-oly810
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",MyTVSuper奥运811
+https://sxj.btjson.us.kg/histar?id=mytvsuper-oly811
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",MyTVSuper奥运812
+https://sxj.btjson.us.kg/histar?id=mytvsuper-oly812
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",MyTVSuper奥运813
+https://sxj.btjson.us.kg/histar?id=mytvsuper-oly813
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",MyTVSuper奥运814
+https://sxj.btjson.us.kg/histar?id=mytvsuper-oly814
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",MyTVSuper奥运815
+https://sxj.btjson.us.kg/histar?id=mytvsuper-oly815
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",MyTVSuper奥运816
+https://sxj.btjson.us.kg/histar?id=mytvsuper-oly816
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",MyTVSuper奥运817
+https://sxj.btjson.us.kg/histar?id=mytvsuper-oly817
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Astro OLY 1
+https://sxj.btjson.us.kg/histar?id=astro-oly1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Astro OLY 2
+https://sxj.btjson.us.kg/histar?id=astro-oly2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Astro OLY 3
+https://sxj.btjson.us.kg/histar?id=astro-oly3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Astro OLY 4
+https://sxj.btjson.us.kg/histar?id=astro-oly4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Astro OLY 5
+https://sxj.btjson.us.kg/histar?id=astro-oly5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Astro OLY 6
+https://sxj.btjson.us.kg/histar?id=astro-oly6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Astro OLY 7
+https://sxj.btjson.us.kg/histar?id=astro-oly7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Astro OLY 8
+https://sxj.btjson.us.kg/histar?id=astro-oly8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Astro OLY 9
+https://sxj.btjson.us.kg/histar?id=astro-oly9
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Astro OLY 10
+https://sxj.btjson.us.kg/histar?id=astro-oly10
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Astro OLY 11
+https://sxj.btjson.us.kg/histar?id=astro-oly11
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Astro OLY 12
+https://sxj.btjson.us.kg/histar?id=astro-oly12
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Astro OLY 13
+https://sxj.btjson.us.kg/histar?id=astro-oly13
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Astro OLY 14
+https://sxj.btjson.us.kg/histar?id=astro-oly14
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Astro OLY 15
+https://sxj.btjson.us.kg/histar?id=astro-oly15
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Astro OLY 16
+https://sxj.btjson.us.kg/histar?id=astro-oly16
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",ViuTV奥运1
+https://sxj.btjson.us.kg/histar?id=mediacorp1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",ViuTV奥运2
+https://sxj.btjson.us.kg/histar?id=mediacorp2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",ViuTV奥运3
+https://sxj.btjson.us.kg/histar?id=mediacorp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",ViuTV奥运4
+https://sxj.btjson.us.kg/histar?id=mediacorp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",ViuTV奥运5
+https://sxj.btjson.us.kg/histar?id=mediacorp5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",ViuTV奥运6
+https://sxj.btjson.us.kg/histar?id=mediacorp6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",ViuTV奥运7
+https://sxj.btjson.us.kg/histar?id=mediacorp7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",ViuTV奥运8
+https://sxj.btjson.us.kg/histar?id=mediacorp8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",ViuTV奥运9
+https://sxj.btjson.us.kg/histar?id=mediacorp9
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",ViuTV奥运10
+https://sxj.btjson.us.kg/histar?id=mediacorp10
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",ViuTV奥运11
+https://sxj.btjson.us.kg/histar?id=mediacorp11
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",ViuTV奥运12
+https://sxj.btjson.us.kg/histar?id=mediacorp12
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",ViuTV奥运13
+https://sxj.btjson.us.kg/histar?id=mediacorp13
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",ViuTV奥运14
+https://sxj.btjson.us.kg/histar?id=mediacorp14
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",ViuTV奥运15
+https://sxj.btjson.us.kg/histar?id=mediacorp15
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",ViuTV奥运16
+https://sxj.btjson.us.kg/histar?id=mediacorp16
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",ViuTV奥运17
+https://sxj.btjson.us.kg/histar?id=mediacorp17
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="未分组",湖南卫视
+https://sxj.btjson.us.kg/histar?id=hunan
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="未分组",浙江卫视
+https://sxj.btjson.us.kg/histar?id=zhejiang
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="未分组",东方卫视
+https://sxj.btjson.us.kg/histar?id=dongfang
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="未分组",江苏卫视
+https://sxj.btjson.us.kg/histar?id=jiangsu
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="未分组",北京卫视
+https://sxj.btjson.us.kg/histar?id=beijing
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="未分组",深圳卫视
+https://sxj.btjson.us.kg/histar?id=shenzhen
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="未分组",广东卫视
+https://sxj.btjson.us.kg/histar?id=guangdong
+#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="未分组",大湾区卫视
+https://sxj.btjson.us.kg/histar?id=gdwqws
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="未分组",重庆卫视
+https://sxj.btjson.us.kg/histar?id=chongqing
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="未分组",东南卫视
+https://sxj.btjson.us.kg/histar?id=dongnan
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="未分组",广西卫视
+https://sxj.btjson.us.kg/histar?id=guangxi
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="未分组",贵州卫视
+https://sxj.btjson.us.kg/histar?id=guizhou
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="未分组",海南卫视
+https://sxj.btjson.us.kg/histar?id=hainan
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="未分组",河北卫视
+https://sxj.btjson.us.kg/histar?id=hebei
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="未分组",黑龙江卫视
+https://sxj.btjson.us.kg/histar?id=heilongjiang
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="未分组",湖北卫视
+https://sxj.btjson.us.kg/histar?id=hubei
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="未分组",江西卫视
+https://sxj.btjson.us.kg/histar?id=jiangxi
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="未分组",吉林卫视
+https://sxj.btjson.us.kg/histar?id=jilin
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="未分组",辽宁卫视
+https://sxj.btjson.us.kg/histar?id=liaoning
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="未分组",内蒙古卫视
+https://sxj.btjson.us.kg/histar?id=neimenggu
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.com/tv/宁夏卫视.png" group-title="未分组",宁夏卫视
+https://sxj.btjson.us.kg/histar?id=ningxia
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="未分组",陕西卫视
+https://sxj.btjson.us.kg/histar?id=shaanxi
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="未分组",山东卫视
+https://sxj.btjson.us.kg/histar?id=shandong
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="未分组",山西卫视
+https://sxj.btjson.us.kg/histar?id=shanxi
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="未分组",四川卫视
+https://sxj.btjson.us.kg/histar?id=sichuan
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="未分组",天津卫视
+https://sxj.btjson.us.kg/histar?id=tianjin
+#EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.com/tv/厦门卫视.png" group-title="未分组",厦门卫视
+https://sxj.btjson.us.kg/histar?id=xiamen
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="未分组",新疆卫视
+https://sxj.btjson.us.kg/histar?id=xinjiang
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" group-title="未分组",西藏卫视
+https://sxj.btjson.us.kg/histar?id=xizang
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="未分组",云南卫视
+https://sxj.btjson.us.kg/histar?id=yunnan
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="未分组",安徽卫视
+https://sxj.btjson.us.kg/histar?id=anhui
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="未分组",河南卫视
+https://sxj.btjson.us.kg/histar?id=henan
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" group-title="未分组",青海卫视
+https://sxj.btjson.us.kg/histar?id=qinghai
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png" group-title="未分组",甘肃卫视
+https://sxj.btjson.us.kg/histar?id=gansu
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",TVB 翡翠台
+https://sxj.btjson.us.kg/histar?id=feicui
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",TVB 无线新闻台
+https://sxj.btjson.us.kg/histar?id=tvb-news
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",TVB PLUS
+https://sxj.btjson.us.kg/histar?id=tvb-plus
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",TVB 黄金翡翠台
+https://sxj.btjson.us.kg/histar?id=golden-jade
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",TVB 黄金华剧台
+https://sxj.btjson.us.kg/histar?id=golden-chinese-drama
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",TVB 千禧经典台
+https://sxj.btjson.us.kg/histar?id=tvb-classic
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",TVB 粤语片台
+https://sxj.btjson.us.kg/histar?id=tvb-yueyu
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",TVB 星河台
+https://sxj.btjson.us.kg/histar?id=tvb-xinghe
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",TVB 亚洲剧台
+https://sxj.btjson.us.kg/histar?id=tvb-asia-drama
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",TVB 娱乐新闻台
+https://sxj.btjson.us.kg/histar?id=TVB ylxw
+#EXTINF:-1 tvg-id="J2" tvg-name="J2" tvg-logo="https://live.fanmingming.com/tv/J2.png" group-title="未分组",J2
+https://sxj.btjson.us.kg/histar?id=j2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",TVB 明珠台
+https://sxj.btjson.us.kg/histar?id=pearl
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",TVB 华语剧台
+https://sxj.btjson.us.kg/histar?id=tvb-drama
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",TVB功夫台
+https://sxj.btjson.us.kg/histar?id=tvb-kongfu
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",凤凰卫视 资讯台
+https://sxj.btjson.us.kg/histar?id=phtv-info
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",凤凰卫视 中文台
+https://sxj.btjson.us.kg/histar?id=phtv-cn
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",凤凰卫视 香港台
+https://sxj.btjson.us.kg/histar?id=phtv-hk
+#EXTINF:-1 tvg-id="凤凰卫视电影台" tvg-name="凤凰卫视电影台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视电影台.png" group-title="未分组",凤凰卫视电影台
+https://sxj.btjson.us.kg/histar?id=phtv-movies
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",HOY 资讯台
+https://sxj.btjson.us.kg/histar?id=hoy-info
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",HOY TV
+https://sxj.btjson.us.kg/histar?id=hoytv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",HOY国际财经
+https://sxj.btjson.us.kg/histar?id=hoy-ibc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",ViuTV
+https://sxj.btjson.us.kg/histar?id=viutv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",ViuTV6
+https://sxj.btjson.us.kg/histar?id=viutv6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",天映频道
+https://sxj.btjson.us.kg/histar?id=celestial
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",天映经典
+https://sxj.btjson.us.kg/histar?id=cccm
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Thrill
+https://sxj.btjson.us.kg/histar?id=thrill
+#EXTINF:-1 tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://live.fanmingming.com/tv/星空卫视.png" group-title="未分组",星空卫视
+https://sxj.btjson.us.kg/histar?id=star-xing-kong
+#EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png" group-title="未分组",香港卫视
+https://sxj.btjson.us.kg/histar?id=hks
+#EXTINF:-1 tvg-id="澳亚卫视" tvg-name="澳亚卫视" tvg-logo="https://live.fanmingming.com/tv/澳亚卫视.png" group-title="未分组",澳亚卫视
+https://sxj.btjson.us.kg/histar?id=mastv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",澳门卫视
+https://sxj.btjson.us.kg/histar?id=mstv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",澳门莲花卫视
+https://sxj.btjson.us.kg/histar?id=lotustv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",澳门资讯
+https://sxj.btjson.us.kg/histar?id=tdm-information
+#EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://live.fanmingming.com/tv/澳视澳门.png" group-title="未分组",澳视澳门
+https://sxj.btjson.us.kg/histar?id=tdm
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",HKC 18台
+https://sxj.btjson.us.kg/histar?id=hkc18
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",港台电视 31
+https://sxj.btjson.us.kg/histar?id=rthk31
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",港台电视 32
+https://sxj.btjson.us.kg/histar?id=rthk32
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Now 财经台
+https://sxj.btjson.us.kg/histar?id=now-finance
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Now 爆谷台
+https://sxj.btjson.us.kg/histar?id=baogu-movies
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Now 星影台
+https://sxj.btjson.us.kg/histar?id=now-baogu-superstars
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Now 新闻台
+https://sxj.btjson.us.kg/histar?id=now-news
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Now 直播台
+https://sxj.btjson.us.kg/histar?id=now-direct
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Now报价台
+https://sxj.btjson.us.kg/histar?id=now-data
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Now jelli紫金国际台
+https://sxj.btjson.us.kg/histar?id=now-jelli
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Now华剧台
+https://sxj.btjson.us.kg/histar?id=now-chinese-drama
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",HBO Now115
+https://sxj.btjson.us.kg/histar?id=Now-HBO
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Now HBO Hits
+https://sxj.btjson.us.kg/histar?id=now-hbo-hits
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Now HBO Family
+https://sxj.btjson.us.kg/histar?id=now-hbof-amily
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Now HBO Signature
+https://sxj.btjson.us.kg/histar?id=now-hbo-signature
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",MovieMovie
+https://sxj.btjson.us.kg/histar?id=moviemovie
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",NowViu剧集台
+https://sxj.btjson.us.kg/histar?id=now-viu-drama
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Now Sports 641
+https://sxj.btjson.us.kg/histar?id=now-sports641
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Now NBA
+https://sxj.btjson.us.kg/histar?id=now-nba
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",曼联电视频道
+https://sxj.btjson.us.kg/histar?id=now-mutv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Now SPOTV
+https://sxj.btjson.us.kg/histar?id=now-spotv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Now SPOTV2
+https://sxj.btjson.us.kg/histar?id=now-spotv2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Now Sports精选
+https://sxj.btjson.us.kg/histar?id=now-sports-prime
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Now Sports 1
+https://sxj.btjson.us.kg/histar?id=now-sports-1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Now Sports 2
+https://sxj.btjson.us.kg/histar?id=now-sports-2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Now Sports 3
+https://sxj.btjson.us.kg/histar?id=now-sports-3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Now Sports 4
+https://sxj.btjson.us.kg/histar?id=now-sports-4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Now Sports 5
+https://sxj.btjson.us.kg/histar?id=now-sports-5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Now Sports 6
+https://sxj.btjson.us.kg/histar?id=now-sports-6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Now Sports 7
+https://sxj.btjson.us.kg/histar?id=now-sports-7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Now Sports Plus
+https://sxj.btjson.us.kg/histar?id=now-sports-plus
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Now Sports 英超1
+https://sxj.btjson.us.kg/histar?id=now-sports-premier-league1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Now beIN SPORTS 1
+https://sxj.btjson.us.kg/histar?id=now-bein-sports1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Now beIN SPORTS 2
+https://sxj.btjson.us.kg/histar?id=now-bein-sports2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Now beIN SPORTS 3
+https://sxj.btjson.us.kg/histar?id=now-bein-sports3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Now 668
+https://sxj.btjson.us.kg/histar?id=now-668
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Now Golf 2
+https://sxj.btjson.us.kg/histar?id=now-golf2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Now Golf 3
+https://sxj.btjson.us.kg/histar?id=now-golf3
+#EXTINF:-1 tvg-id="民视" tvg-name="民视" tvg-logo="https://live.fanmingming.com/tv/民视.png" group-title="未分组",民视
+https://sxj.btjson.us.kg/histar?id=ftv
+#EXTINF:-1 tvg-id="民视台湾台" tvg-name="民视台湾台" tvg-logo="https://live.fanmingming.com/tv/民视台湾台.png" group-title="未分组",民视台湾台
+https://sxj.btjson.us.kg/histar?id=ftv-tw
+#EXTINF:-1 tvg-id="民视第一台" tvg-name="民视第一台" tvg-logo="https://live.fanmingming.com/tv/民视第一台.png" group-title="未分组",民视第一台
+https://sxj.btjson.us.kg/histar?id=ftv-one
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",纬来日本
+https://sxj.btjson.us.kg/histar?id=videoland-japan
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",纬来综合
+https://sxj.btjson.us.kg/histar?id=videoland
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",八大综合
+https://sxj.btjson.us.kg/histar?id=gtv28
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",八大第一
+https://sxj.btjson.us.kg/histar?id=gtv27
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",TVBS 精采台
+https://sxj.btjson.us.kg/histar?id=tvbs-jc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",TVBS 欢乐台
+https://sxj.btjson.us.kg/histar?id=tvbs-huanle
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",TVBS Asia
+https://sxj.btjson.us.kg/histar?id=tvbs-asia
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",三立台湾台
+https://sxj.btjson.us.kg/histar?id=settv-taiwan
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",三立综合台
+https://sxj.btjson.us.kg/histar?id=settv-zonghe
+#EXTINF:-1 tvg-id="台视" tvg-name="台视" tvg-logo="https://live.fanmingming.com/tv/台视.png" group-title="未分组",台视
+https://sxj.btjson.us.kg/histar?id=ttv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",东森超视
+https://sxj.btjson.us.kg/histar?id=ebc-super
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",东森综合台
+https://sxj.btjson.us.kg/histar?id=ebc-ettv
+#EXTINF:-1 tvg-id="中视" tvg-name="中视" tvg-logo="https://live.fanmingming.com/tv/中视.png" group-title="未分组",中视
+https://sxj.btjson.us.kg/histar?id=ctv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",中视菁采台
+https://sxj.btjson.us.kg/histar?id=bravo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",中天亚洲
+https://sxj.btjson.us.kg/histar?id=cti-asia
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",中天综合
+https://sxj.btjson.us.kg/histar?id=ctitv36
+#EXTINF:-1 tvg-id="华视" tvg-name="华视" tvg-logo="https://live.fanmingming.com/tv/华视.png" group-title="未分组",华视
+https://sxj.btjson.us.kg/histar?id=cts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",LiveABC 互动英语频道
+https://sxj.btjson.us.kg/histar?id=liveabc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",好消息
+https://sxj.btjson.us.kg/histar?id=goodtv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",KLT-靖天国际台
+https://sxj.btjson.us.kg/histar?id=jtgj
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",ELTA综合台
+https://sxj.btjson.us.kg/histar?id=elta-zonghe
+#EXTINF:-1 tvg-id="公视" tvg-name="公视" tvg-logo="https://live.fanmingming.com/tv/公视.png" group-title="未分组",公视
+https://sxj.btjson.us.kg/histar?id=pts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",公视3台
+https://sxj.btjson.us.kg/histar?id=pts-3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",公视台语台
+https://sxj.btjson.us.kg/histar?id=pts-ty
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",靖天综合台
+https://sxj.btjson.us.kg/histar?id=jtzh
+#EXTINF:-1 tvg-id="靖天日本台" tvg-name="靖天日本台" tvg-logo="https://live.fanmingming.com/tv/靖天日本台.png" group-title="未分组",靖天日本台
+https://sxj.btjson.us.kg/histar?id=jtrb
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",客家电视台
+https://sxj.btjson.us.kg/histar?id=hakkatv
+#EXTINF:-1 tvg-id="大爱一台" tvg-name="大爱一台" tvg-logo="https://live.fanmingming.com/tv/大爱一台.png" group-title="未分组",大爱一台
+https://sxj.btjson.us.kg/histar?id=daai1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",大爱二台
+https://sxj.btjson.us.kg/histar?id=daai2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",ARIRANG 阿里郎频道
+https://sxj.btjson.us.kg/histar?id=arirang
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",中天新闻
+https://sxj.btjson.us.kg/histar?id=cti-news
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",TVBS 新闻台
+https://sxj.btjson.us.kg/histar?id=tvbs-news
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",TVBS HD
+https://sxj.btjson.us.kg/histar?id=tvbs-hd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",东森新闻
+https://sxj.btjson.us.kg/histar?id=ebc-news
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",东森财经新闻
+https://sxj.btjson.us.kg/histar?id=ebc-finance
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",寰宇新闻台
+https://sxj.btjson.us.kg/histar?id=global-news
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",寰宇财经台
+https://sxj.btjson.us.kg/histar?id=global-finance
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",寰宇新闻台湾台
+https://sxj.btjson.us.kg/histar?id=global-news-tw
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",壹新闻 HD
+https://sxj.btjson.us.kg/histar?id=nexttv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",三立新闻
+https://sxj.btjson.us.kg/histar?id=settv-news
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",三立iNews
+https://sxj.btjson.us.kg/histar?id=settv-inews
+#EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://live.fanmingming.com/tv/中视新闻.png" group-title="未分组",中视新闻
+https://sxj.btjson.us.kg/histar?id=ctv-news
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",非凡新闻
+https://sxj.btjson.us.kg/histar?id=unique-business-news
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",年代新闻
+https://sxj.btjson.us.kg/histar?id=era-news
+#EXTINF:-1 tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://live.fanmingming.com/tv/民视新闻台.png" group-title="未分组",民视新闻台
+https://sxj.btjson.us.kg/histar?id=ftv-news
+#EXTINF:-1 tvg-id="台视新闻" tvg-name="台视新闻" tvg-logo="https://live.fanmingming.com/tv/台视新闻.png" group-title="未分组",台视新闻
+https://sxj.btjson.us.kg/histar?id=ttv-news
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",镜电视新闻台
+https://sxj.btjson.us.kg/histar?id=mnews
+#EXTINF:-1 tvg-id="华视新闻" tvg-name="华视新闻" tvg-logo="https://live.fanmingming.com/tv/华视新闻.png" group-title="未分组",华视新闻
+https://sxj.btjson.us.kg/histar?id=cts-news
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",半岛国际新闻台
+https://sxj.btjson.us.kg/histar?id=aljazeera
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",SBN 全球财经台
+https://sxj.btjson.us.kg/histar?id=sbn
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",靖天资讯台
+https://sxj.btjson.us.kg/histar?id=jtzx
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",霹雳台湾台
+https://sxj.btjson.us.kg/histar?id=pilitv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",纬来电影台
+https://sxj.btjson.us.kg/histar?id=videoland-movie
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",纬来戏剧
+https://sxj.btjson.us.kg/histar?id=videoland-drama
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",TVBS综艺台
+https://sxj.btjson.us.kg/histar?id=tvbs-zongyi
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",TVBS台剧台
+https://sxj.btjson.us.kg/histar?id=tvbs-taiju
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",龙祥电影台
+https://sxj.btjson.us.kg/histar?id=lstime
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",龙华电影台
+https://sxj.btjson.us.kg/histar?id=ltv-movies
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",龙华戏剧台
+https://sxj.btjson.us.kg/histar?id=ltv-xiju
+#EXTINF:-1 tvg-id="龙华日韩台" tvg-name="龙华日韩台" tvg-logo="https://live.fanmingming.com/tv/龙华日韩台.png" group-title="未分组",龙华日韩台
+https://sxj.btjson.us.kg/histar?id=ltv-rihan
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",东森电影
+https://sxj.btjson.us.kg/histar?id=ebc-movie
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",东森戏剧
+https://sxj.btjson.us.kg/histar?id=ebc-drama
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",东森洋片
+https://sxj.btjson.us.kg/histar?id=ebc-emovie
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",八大精彩台
+https://sxj.btjson.us.kg/histar?id=gtv-jct
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",八大戏剧
+https://sxj.btjson.us.kg/histar?id=gtv-41
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",八大娱乐
+https://sxj.btjson.us.kg/histar?id=gtv-86
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",八大综艺
+https://sxj.btjson.us.kg/histar?id=grt
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",采昌影剧台
+https://sxj.btjson.us.kg/histar?id=caichang
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",美亚电影台
+https://sxj.btjson.us.kg/histar?id=meiah-movies
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",猪哥亮歌厅秀
+https://sxj.btjson.us.kg/histar?id=zglgtx
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",民视综艺
+https://sxj.btjson.us.kg/histar?id=ftv-reality
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",民视影剧
+https://sxj.btjson.us.kg/histar?id=ftv-drama
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",三立都会台
+https://sxj.btjson.us.kg/histar?id=settv-city
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",三立戏剧台
+https://sxj.btjson.us.kg/histar?id=settv-drama
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",中视经典台
+https://sxj.btjson.us.kg/histar?id=ctv-classic
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",中天娱乐
+https://sxj.btjson.us.kg/histar?id=cti-yule
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",靖洋戏剧台
+https://sxj.btjson.us.kg/histar?id=jyxj
+#EXTINF:-1 tvg-id="靖天映画" tvg-name="靖天映画" tvg-logo="https://live.fanmingming.com/tv/靖天映画.png" group-title="未分组",靖天映画
+https://sxj.btjson.us.kg/histar?id=jtyh
+#EXTINF:-1 tvg-id="靖天电影台" tvg-name="靖天电影台" tvg-logo="https://live.fanmingming.com/tv/靖天电影台.png" group-title="未分组",靖天电影台
+https://sxj.btjson.us.kg/histar?id=jtdy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",靖天戏剧台
+https://sxj.btjson.us.kg/histar?id=jtxjt
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",韩国娱乐台 KMTV
+https://sxj.btjson.us.kg/histar?id=kmtv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",公视戏剧
+https://sxj.btjson.us.kg/histar?id=gsxj
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",影迷数位纪实台
+https://sxj.btjson.us.kg/histar?id=ymswjst
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",影迷数字电影台
+https://sxj.btjson.us.kg/histar?id=fans-cinema
+#EXTINF:-1 tvg-id="视纳华仁纪实频道" tvg-name="视纳华仁纪实频道" tvg-logo="https://live.fanmingming.com/tv/视纳华仁纪实频道.png" group-title="未分组",视纳华仁纪实频道
+https://sxj.btjson.us.kg/histar?id=cnex
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",MTV Live HD 频道
+https://sxj.btjson.us.kg/histar?id=mtv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",ELTA 娱乐台
+https://sxj.btjson.us.kg/histar?id=elta-ylt
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Channel 5
+https://sxj.btjson.us.kg/histar?id=channel-5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Channel 8
+https://sxj.btjson.us.kg/histar?id=channel8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Channel U
+https://sxj.btjson.us.kg/histar?id=channel-u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",8TV
+https://sxj.btjson.us.kg/histar?id=8tv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",TV9
+https://sxj.btjson.us.kg/histar?id=tv9
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",CM+
+https://sxj.btjson.us.kg/histar?id=cm-plus
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",E乐
+https://sxj.btjson.us.kg/histar?id=singtel-tv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",TV1
+https://sxj.btjson.us.kg/histar?id=tv1-my
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",TV2
+https://sxj.btjson.us.kg/histar?id=tv2-my
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",TV3
+https://sxj.btjson.us.kg/histar?id=tv3-my
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",ChannelNewsAsia
+https://sxj.btjson.us.kg/histar?id=channelnewsasia
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",OKEY
+https://sxj.btjson.us.kg/histar?id=okey
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",TVB Magic
+https://sxj.btjson.us.kg/histar?id=tvb-magic
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",tvN Movies
+https://sxj.btjson.us.kg/histar?id=tvn-movies
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://live.fanmingming.com/tv/AXN.png" group-title="未分组",AXN
+https://sxj.btjson.us.kg/histar?id=axn
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",TV Alhijrah
+https://sxj.btjson.us.kg/histar?id=tv-alhijrah
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",ColorsHindi
+https://sxj.btjson.us.kg/histar?id=colorshindi
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",TVS
+https://sxj.btjson.us.kg/histar?id=tvs
+#EXTINF:-1 tvg-id="tvN" tvg-name="tvN" tvg-logo="https://live.fanmingming.com/tv/tvN.png" group-title="未分组",tvN
+https://sxj.btjson.us.kg/histar?id=tvn
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",BeritaRTM
+https://sxj.btjson.us.kg/histar?id=beritartm
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",SukanRTM
+https://sxj.btjson.us.kg/histar?id=sukanrtm
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",HITSMovies
+https://sxj.btjson.us.kg/histar?id=hitsmovies
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",ShowCase
+https://sxj.btjson.us.kg/histar?id=showcase
+#EXTINF:-1 tvg-id="BBCEarth" tvg-name="BBCEarth" tvg-logo="https://live.fanmingming.com/tv/BBCEarth.png" group-title="未分组",BBCEarth
+https://sxj.btjson.us.kg/histar?id=bbcearth
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Mediacorp Suria
+https://sxj.btjson.us.kg/histar?id=mediacorp-suria
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Mediacorp Vasantham
+https://sxj.btjson.us.kg/histar?id=mediacorp-vasantham
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Gem
+https://sxj.btjson.us.kg/histar?id=gem
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",GlobalTrekker
+https://sxj.btjson.us.kg/histar?id=globaltrekker
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",DramaSangat
+https://sxj.btjson.us.kg/histar?id=dramasangat
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",SunTV
+https://sxj.btjson.us.kg/histar?id=suntv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",SunMusic
+https://sxj.btjson.us.kg/histar?id=sunmusic
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",SunNews
+https://sxj.btjson.us.kg/histar?id=sunnews
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",AwesomeTV
+https://sxj.btjson.us.kg/histar?id=awesometv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",DidikTV7
+https://sxj.btjson.us.kg/histar?id=didiktv7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Adithya
+https://sxj.btjson.us.kg/histar?id=adithya
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",KTVHD
+https://sxj.btjson.us.kg/histar?id=ktvhd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",SunLife
+https://sxj.btjson.us.kg/histar?id=sunlife
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",StarVijay
+https://sxj.btjson.us.kg/histar?id=starvijay
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",ColorsTamil
+https://sxj.btjson.us.kg/histar?id=colorstamil
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",ZeeTamil
+https://sxj.btjson.us.kg/histar?id=zeetamil
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",ZeeCinemaHD
+https://sxj.btjson.us.kg/histar?id=zeecinemahd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Boo
+https://sxj.btjson.us.kg/histar?id=boo
+#EXTINF:-1 tvg-id="MTVLive" tvg-name="MTVLive" tvg-logo="https://live.fanmingming.com/tv/MTVLive.png" group-title="未分组",MTVLive
+https://sxj.btjson.us.kg/histar?id=mtvlive
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Bernama
+https://sxj.btjson.us.kg/histar?id=bernama
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Moonbug
+https://sxj.btjson.us.kg/histar?id=moonbug
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Hub都会
+https://sxj.btjson.us.kg/histar?id=HubECity
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Hub娱家
+https://sxj.btjson.us.kg/histar?id=HubVVDrama
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",HubSports 1
+https://sxj.btjson.us.kg/histar?id=hubsports1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",HubSports2
+https://sxj.btjson.us.kg/histar?id=hubsports2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",HubSports3
+https://sxj.btjson.us.kg/histar?id=hubsports3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",HubSport4
+https://sxj.btjson.us.kg/histar?id=hubsports4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",HubSports Plus
+https://sxj.btjson.us.kg/histar?id=hubsports-plus
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Hub Premier 1
+https://sxj.btjson.us.kg/histar?id=hubpremier1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",HubPremier2
+https://sxj.btjson.us.kg/histar?id=hubpremier2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",HubPremier3
+https://sxj.btjson.us.kg/histar?id=hubpremier3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",HubPremier 4
+https://sxj.btjson.us.kg/histar?id=hubpremier4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",HubPremier 5
+https://sxj.btjson.us.kg/histar?id=hubpremier5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Hub Sensasi
+https://sxj.btjson.us.kg/histar?id=hub-sensasi
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",tvn HD
+https://sxj.btjson.us.kg/histar?id=tvnhd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",AstroWarna Hub版
+https://sxj.btjson.us.kg/histar?id=astro-warna-hub
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",ONEMalay
+https://sxj.btjson.us.kg/histar?id=one-malay
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Astro AEC
+https://sxj.btjson.us.kg/histar?id=astro-aec
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Astro 欢喜台
+https://sxj.btjson.us.kg/histar?id=astro-huaheedai
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Astro SuperSport
+https://sxj.btjson.us.kg/histar?id=super-sports1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Astro SuperSport 2
+https://sxj.btjson.us.kg/histar?id=super-sports2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Astro SuperSport 3
+https://sxj.btjson.us.kg/histar?id=super-sports3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Astro SuperSport 4
+https://sxj.btjson.us.kg/histar?id=super-sports4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Arena Bola
+https://sxj.btjson.us.kg/histar?id=arena-bola
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Arena Bola2
+https://sxj.btjson.us.kg/histar?id=arena-bola2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Astro 爱奇艺
+https://sxj.btjson.us.kg/histar?id=astro-iqiyi
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Astro AOD 311 国语
+https://sxj.btjson.us.kg/histar?id=astro-aod
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Astro AOD 311 粤语
+https://sxj.btjson.us.kg/histar?id=astro-aod-311-hk
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Astro QJ
+https://sxj.btjson.us.kg/histar?id=astro-quanjia
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Astro Awani
+https://sxj.btjson.us.kg/histar?id=astro-awani
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Astro Arena HD
+https://sxj.btjson.us.kg/histar?id=astro-arena-hd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Astro Arena 2
+https://sxj.btjson.us.kg/histar?id=astro-arena2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Astro Citra
+https://sxj.btjson.us.kg/histar?id=astro-citra
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Astro Prima
+https://sxj.btjson.us.kg/histar?id=astro-prima
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Astro Aura
+https://sxj.btjson.us.kg/histar?id=astro-aura
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Astro RIA
+https://sxj.btjson.us.kg/histar?id=astro-ria
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Astro ONE
+https://sxj.btjson.us.kg/histar?id=astro-one
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",AstroPremier
+https://sxj.btjson.us.kg/histar?id=astropremier
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Astro Ceria
+https://sxj.btjson.us.kg/histar?id=astro-ceria
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Astro Vaanavil
+https://sxj.btjson.us.kg/histar?id=astro-vaanavil
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Astro Vinmeen
+https://sxj.btjson.us.kg/histar?id=astro-vinmeen
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Astro Warna
+https://sxj.btjson.us.kg/histar?id=astro-warna
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Astro Vellithirai
+https://sxj.btjson.us.kg/histar?id=astro-vellithirai
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Astro Rania
+https://sxj.btjson.us.kg/histar?id=astro-rania
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Astro Oasis
+https://sxj.btjson.us.kg/histar?id=astro-oasis
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Astro TUTOR TV
+https://sxj.btjson.us.kg/histar?id=astro-tutor-tv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Astro GolfChannel
+https://sxj.btjson.us.kg/histar?id=astro-golfchannel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",beIN Sports
+https://sxj.btjson.us.kg/histar?id=beinsports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",beIN Sports 2
+https://sxj.btjson.us.kg/histar?id=beinsports2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",beIN Sports 3
+https://sxj.btjson.us.kg/histar?id=beinsports3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",ELTA 体育-1
+https://sxj.btjson.us.kg/histar?id=elta-sport1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",ELTA 体育-2
+https://sxj.btjson.us.kg/histar?id=elta-sport2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",ELTA 体育-3
+https://sxj.btjson.us.kg/histar?id=elta-sport3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",ELTA体育4台
+https://sxj.btjson.us.kg/histar?id=elta-sport4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",博斯网球
+https://sxj.btjson.us.kg/histar?id=sportcast-tennis
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",博斯运动-1
+https://sxj.btjson.us.kg/histar?id=sportcast1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",博斯运动-2
+https://sxj.btjson.us.kg/histar?id=sportcast2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",博斯无限
+https://sxj.btjson.us.kg/histar?id=sportcast-wx
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",博斯高球-1
+https://sxj.btjson.us.kg/histar?id=sportcast-golf1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",博斯高球-2
+https://sxj.btjson.us.kg/histar?id=sportcast-golf2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",博斯魅力
+https://sxj.btjson.us.kg/histar?id=sportcast-meili
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",ESPN
+https://sxj.btjson.us.kg/histar?id=espn
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",ESPN 2
+https://sxj.btjson.us.kg/histar?id=espn2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",ESPN 3
+https://sxj.btjson.us.kg/histar?id=espn3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",ESPN 4
+https://sxj.btjson.us.kg/histar?id=espn4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",myTV SUPER直播足球1台
+https://sxj.btjson.us.kg/histar?id=mytv-super-soccer1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",myTV SUPER直播足球2台
+https://sxj.btjson.us.kg/histar?id=mytv-super-soccer2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",myTV SUPER直播足球3台
+https://sxj.btjson.us.kg/histar?id=mytv-super-soccer3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",myTV SUPER直播足球4台
+https://sxj.btjson.us.kg/histar?id=mytv-super-soccer4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",myTV SUPER 18
+https://sxj.btjson.us.kg/histar?id=mytvsuper-18
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",纬来体育
+https://sxj.btjson.us.kg/histar?id=videoland-sport
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",NBA
+https://sxj.btjson.us.kg/histar?id=nba
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",WWE
+https://sxj.btjson.us.kg/histar?id=wwe
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",DAZN 1
+https://sxj.btjson.us.kg/histar?id=eleven-sport1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",DAZN 2
+https://sxj.btjson.us.kg/histar?id=eleven-sport2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Eurosports-1
+https://sxj.btjson.us.kg/histar?id=eurosports-1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",SPOTV
+https://sxj.btjson.us.kg/histar?id=spotv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",SPOTV-2
+https://sxj.btjson.us.kg/histar?id=spotv2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",时尚运动 X
+https://sxj.btjson.us.kg/histar?id=ssydx
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",GINX Esports TV
+https://sxj.btjson.us.kg/histar?id=ginx-esports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Tech Storm
+https://sxj.btjson.us.kg/histar?id=tech-storm
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",TRACE Sport Stars
+https://sxj.btjson.us.kg/histar?id=trace-sport-stars
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",W-Sport
+https://sxj.btjson.us.kg/histar?id=w-sport
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",PremierSports
+https://sxj.btjson.us.kg/histar?id=premiersports
+#EXTINF:-1 tvg-id="智林体育台" tvg-name="智林体育台" tvg-logo="https://live.fanmingming.com/tv/智林体育台.png" group-title="未分组",智林体育台
+https://sxj.btjson.us.kg/histar?id=zl-sports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",新时代电视
+https://sxj.btjson.us.kg/histar?id=fairchildtv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",新时代电视二台
+https://sxj.btjson.us.kg/histar?id=fairchildtv2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",城市电视
+https://sxj.btjson.us.kg/histar?id=talentvisiontv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",HBO HD
+https://sxj.btjson.us.kg/histar?id=hbo-hd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",HBO Hits HD
+https://sxj.btjson.us.kg/histar?id=hbo-hits-hd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",HBO Family HD
+https://sxj.btjson.us.kg/histar?id=hbo-family
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",HBO Signature HD
+https://sxj.btjson.us.kg/histar?id=hbo-signature
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Cinemax
+https://sxj.btjson.us.kg/histar?id=cinemax
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",CNN International
+https://sxj.btjson.us.kg/histar?id=cnn-international
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",好莱坞电影
+https://sxj.btjson.us.kg/histar?id=hollywood-movie
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",ROCK Action
+https://sxj.btjson.us.kg/histar?id=rock-action
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",ROCK Entertainment
+https://sxj.btjson.us.kg/histar?id=rock-entertaiment
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Bloomberg
+https://sxj.btjson.us.kg/histar?id=bloomberg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",amc 最爱电影
+https://sxj.btjson.us.kg/histar?id=amc-movie
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",美国中文电视
+https://sxj.btjson.us.kg/histar?id=sinovision
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Lifetime 娱乐频道
+https://sxj.btjson.us.kg/histar?id=lifetime
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",HLN
+https://sxj.btjson.us.kg/histar?id=cnn-hln
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",fun 探索娱乐台
+https://sxj.btjson.us.kg/histar?id=festival4k
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Euronews
+https://sxj.btjson.us.kg/histar?id=euronews
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",MyCinema Europe HD
+https://sxj.btjson.us.kg/histar?id=mycinema-europe
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",VOA 美国之音
+https://sxj.btjson.us.kg/histar?id=voa
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",DW 德国之声
+https://sxj.btjson.us.kg/histar?id=dw
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",ABC News
+https://sxj.btjson.us.kg/histar?id=abc-news
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",BBC World News
+https://sxj.btjson.us.kg/histar?id=bbc-world-news
+#EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC" tvg-logo="https://live.fanmingming.com/tv/CNBC.png" group-title="未分组",CNBC
+https://sxj.btjson.us.kg/histar?id=cnbc
+#EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://live.fanmingming.com/tv/上海都市.png" group-title="未分组",上海都市
+https://sxj.btjson.us.kg/histar?id=shds
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",上海新闻
+https://sxj.btjson.us.kg/histar?id=shxw
+#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="未分组",五星体育
+https://sxj.btjson.us.kg/histar?id=wxty
+#EXTINF:-1 tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://live.fanmingming.com/tv/劲爆体育.png" group-title="未分组",劲爆体育
+https://sxj.btjson.us.kg/histar?id=jbty
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="未分组",广东体育
+https://sxj.btjson.us.kg/histar?id=gdty
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",第一财经
+https://sxj.btjson.us.kg/histar?id=yicai
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",辽宁体育
+https://sxj.btjson.us.kg/histar?id=lnty
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",天津体育
+https://sxj.btjson.us.kg/histar?id=tjty
+#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="未分组",广东珠江
+https://sxj.btjson.us.kg/histar?id=gdzj
+#EXTINF:-1 tvg-id="河南梨园" tvg-name="河南梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="未分组",河南梨园
+https://sxj.btjson.us.kg/histar?id=hnly
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",辽宁都市
+https://sxj.btjson.us.kg/histar?id=lnds
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",辽宁影视
+https://sxj.btjson.us.kg/histar?id=lnys
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",黑龙江都市
+https://sxj.btjson.us.kg/histar?id=hljds
+#EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://live.fanmingming.com/tv/广州综合.png" group-title="未分组",广州综合
+https://sxj.btjson.us.kg/histar?id=gzzh
+#EXTINF:-1 tvg-id="广州影视" tvg-name="广州影视" tvg-logo="https://live.fanmingming.com/tv/广州影视.png" group-title="未分组",广州影视
+https://sxj.btjson.us.kg/histar?id=gzys
+#EXTINF:-1 tvg-id="广州竞赛" tvg-name="广州竞赛" tvg-logo="https://live.fanmingming.com/tv/广州竞赛.png" group-title="未分组",广州竞赛
+https://sxj.btjson.us.kg/histar?id=gzjs
+#EXTINF:-1 tvg-id="广东影视" tvg-name="广东影视" tvg-logo="https://live.fanmingming.com/tv/广东影视.png" group-title="未分组",广东影视
+https://sxj.btjson.us.kg/histar?id=gdys
+#EXTINF:-1 tvg-id="广东新闻" tvg-name="广东新闻" tvg-logo="https://live.fanmingming.com/tv/广东新闻.png" group-title="未分组",广东新闻
+https://sxj.btjson.us.kg/histar?id=gdxw
+#EXTINF:-1 tvg-id="广东民生" tvg-name="广东民生" tvg-logo="https://live.fanmingming.com/tv/广东民生.png" group-title="未分组",广东民生
+https://sxj.btjson.us.kg/histar?id=gdms
+#EXTINF:-1 tvg-id="广东少儿" tvg-name="广东少儿" tvg-logo="https://live.fanmingming.com/tv/广东少儿.png" group-title="未分组",广东少儿
+https://sxj.btjson.us.kg/histar?id=gdse
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",迪士尼频道
+https://sxj.btjson.us.kg/histar?id=disney
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Animax 卡通
+https://sxj.btjson.us.kg/histar?id=animax-cartoon
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",DreamWorks 梦工厂动画
+https://sxj.btjson.us.kg/histar?id=dreamworks
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",小尼克频道
+https://sxj.btjson.us.kg/histar?id=nick-jr
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",尼克儿童频道
+https://sxj.btjson.us.kg/histar?id=nickelodeon
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",MOMO 亲子台
+https://sxj.btjson.us.kg/histar?id=momo-kids
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",东森幼幼台
+https://sxj.btjson.us.kg/histar?id=ebc-yoyo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",CN卡通
+https://sxj.btjson.us.kg/histar?id=cn-cartoon
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",靖天卡通台
+https://sxj.btjson.us.kg/histar?id=jtkt
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",靖天育乐台
+https://sxj.btjson.us.kg/histar?id=jtyl
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",i-Fun 动漫台
+https://sxj.btjson.us.kg/histar?id=i-fun
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",ELTV生活英語台
+https://sxj.btjson.us.kg/histar?id=eltv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Boomerang HD
+https://sxj.btjson.us.kg/histar?id=boomerang-hd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",靖洋卡通 NiceBingo
+https://sxj.btjson.us.kg/histar?id=nice-bingo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",达文西频道
+https://sxj.btjson.us.kg/histar?id=da-vinci
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",探索频道
+https://sxj.btjson.us.kg/histar?id=discovery
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",探索科学频道
+https://sxj.btjson.us.kg/histar?id=discovery-sci
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",探索亚洲频道
+https://sxj.btjson.us.kg/histar?id=discovery-asia
+#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-logo="https://live.fanmingming.com/tv/DMAX.png" group-title="未分组",DMAX
+https://sxj.btjson.us.kg/histar?id=dmax
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",History 频道
+https://sxj.btjson.us.kg/histar?id=history
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",History-2 频道
+https://sxj.btjson.us.kg/histar?id=history-2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Love Nature
+https://sxj.btjson.us.kg/histar?id=love-nature
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",国家地理 野生频道
+https://sxj.btjson.us.kg/histar?id=natgeo-wild
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",民视旅游
+https://sxj.btjson.us.kg/histar?id=ftv-travel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",美食星球频道
+https://sxj.btjson.us.kg/histar?id=food-planet
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",EYE 旅游台
+https://sxj.btjson.us.kg/histar?id=eye-travel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",ELTA 生活旅游台
+https://sxj.btjson.us.kg/histar?id=elta-lifetravel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",车迷TV
+https://sxj.btjson.us.kg/histar?id=motorvision
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",动物星球频道
+https://sxj.btjson.us.kg/histar?id=animal-planet
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",TLC 旅游生活頻道
+https://sxj.btjson.us.kg/histar?id=tlc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",亚洲旅游台
+https://sxj.btjson.us.kg/histar?id=asia-travel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",Asian Food Network
+https://sxj.btjson.us.kg/histar?id=asian-food-network
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",CI 罪案侦查频道
+https://sxj.btjson.us.kg/histar?id=ci
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",滚动力 rollor
+https://sxj.btjson.us.kg/histar?id=rollor
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",LUXE TV Channel
+https://sxj.btjson.us.kg/histar?id=luxe-tv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",NHK General
+https://sxj.btjson.us.kg/histar?id=nhk-g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",NHK Education
+https://sxj.btjson.us.kg/histar?id=nhk-e
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",日本电视台
+https://sxj.btjson.us.kg/histar?id=nippon-tv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",TBS TV
+https://sxj.btjson.us.kg/histar?id=tbs-tv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",富士电视台
+https://sxj.btjson.us.kg/histar?id=fujitv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",朝日电视台
+https://sxj.btjson.us.kg/histar?id=tv-asahi
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",东京电视台
+https://sxj.btjson.us.kg/histar?id=tv-tokyo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",JSPORTS 1
+https://sxj.btjson.us.kg/histar?id=jsports1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",JSPORTS 2
+https://sxj.btjson.us.kg/histar?id=jsports2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",JSPORTS 3
+https://sxj.btjson.us.kg/histar?id=jsports3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",JSPORTS 4
+https://sxj.btjson.us.kg/histar?id=jsports4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",KBS 1
+https://sxj.btjson.us.kg/histar?id=kbs-1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",KBS 2
+https://sxj.btjson.us.kg/histar?id=kbs-2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",KBS Drama
+https://sxj.btjson.us.kg/histar?id=kbs-drama
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",KBS Story
+https://sxj.btjson.us.kg/histar?id=kbs-story
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",KBS Life
+https://sxj.btjson.us.kg/histar?id=kbs-life
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",KBS Joy
+https://sxj.btjson.us.kg/histar?id=kbs-joy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",KBS Kids
+https://sxj.btjson.us.kg/histar?id=kbs-kids
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",KBSWorld
+https://sxj.btjson.us.kg/histar?id=kbsworld
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",KBS NEWS
+https://sxj.btjson.us.kg/histar?id=kbs-news
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",SBS
+https://sxj.btjson.us.kg/histar?id=sbs
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",SBS Plus
+https://sxj.btjson.us.kg/histar?id=sbs-plus
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",SBS funE
+https://sxj.btjson.us.kg/histar?id=sbs-fune
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",SBS M
+https://sxj.btjson.us.kg/histar?id=sbs-m
