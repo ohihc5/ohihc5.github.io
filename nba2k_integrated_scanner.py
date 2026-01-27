@@ -87,19 +87,13 @@ def scan_buy_buttons_static(url):
 def scan_buy_buttons_selenium(url):
     """
     Scan using Selenium to capture dynamically rendered buttons.
-    
-    Args:
-        url (str): The URL to scan
-        
-    Returns:
-        dict: Contains button data from Selenium
     """
     options = webdriver.ChromeOptions()
-    options.add_argument("--start-maximized")
-    # Uncomment below for headless mode
-    # options.add_argument("--headless")
-    
+    options.add_argument("--headless")
+    options.add_argument("--no-sandbox")
+    options.add_argument("--disable-dev-shm-usage")
     driver = webdriver.Chrome(options=options)
+
     
     try:
         driver.get(url)
