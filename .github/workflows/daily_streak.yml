@@ -1,0 +1,35 @@
+name: Daily Streak Claim (05:00 AM)
+
+on:
+  schedule:
+    - cron: '0 21 * * *'  # 21:00 UTC = 05:00 CST next day
+  workflow_dispatch:
+
+jobs:
+  claim-daily-streak:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          pip install selenium
+
+      - name: Setup Chrome
+        uses: browser-actions/setup-chrome@latest
+        with:
+          chrome-version: stable
+
+      - name: Install ChromeDriver
+        uses: nanasess/setup-chromedriver@master
+
+      - name: Run daily streak claim
+        run: |
+          python nba2kmobile.py

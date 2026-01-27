@@ -32,7 +32,9 @@ FINAL_REWARD_SELECTOR = "button#buy-button-5Y6m2LwZwzmrV5RNxzMntq"
 # --- AUTO-GENERATED SELECTORS END ---
 def create_driver():
     options = webdriver.ChromeOptions()
-    # options.add_argument("--headless")  # uncomment for headless
+    options.add_argument("--headless")
+    options.add_argument("--no-sandbox")
+    options.add_argument("--disable-dev-shm-usage")
     driver = webdriver.Chrome(options=options)
     driver.set_page_load_timeout(30)
     return driver
