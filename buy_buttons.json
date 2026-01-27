@@ -1,199 +1,86 @@
 {
   "url": "https://www.nba2kmobile.com/dailystreak",
-  "scan_type": "static",
+  "scan_type": "selenium",
   "total_buttons_found": 8,
   "buttons": [
     {
+      "class": "tile_button__YTefd btn min-h-0 min-w-0 leading-6 font-bold uppercase [&>*:not(:first-child)]:hidden",
+      "id": "buy-button-1KpDKvhJLRLmPXNnd78W4W",
+      "selector": "button#buy-button-1KpDKvhJLRLmPXNnd78W4W",
       "tag": "button",
-      "id": "buy-button-2ydZkhflV6CjExyXSC7aEB",
-      "class": [
-        "tile_button__YTefd",
-        "btn",
-        "min-h-0",
-        "min-w-0",
-        "leading-6",
-        "font-bold",
-        "uppercase",
-        "[&>*:not(:first-child)]:hidden"
-      ],
       "text": "CLAIM",
       "type": "button",
-      "data_attributes": {
-        "data-rum-action-name": "Buy Button",
-        "data-testid": "list-view-buy-button"
-      },
-      "onclick": null,
-      "selector": "button#buy-button-2ydZkhflV6CjExyXSC7aEB"
+      "visible": true
     },
     {
+      "class": "tile_button__YTefd btn min-h-0 min-w-0 leading-6 font-bold uppercase [&>*:not(:first-child)]:hidden",
+      "id": "buy-button-2L8m303YrHQKgfHlcQALwD",
+      "selector": "button#buy-button-2L8m303YrHQKgfHlcQALwD",
       "tag": "button",
-      "id": "buy-button-40bLAHIyfGbKTNSEHeAKZv",
-      "class": [
-        "tile_button__YTefd",
-        "btn",
-        "min-h-0",
-        "min-w-0",
-        "leading-6",
-        "font-bold",
-        "uppercase",
-        "[&>*:not(:first-child)]:hidden"
-      ],
       "text": "",
       "type": "button",
-      "data_attributes": {
-        "data-rum-action-name": "Buy Button",
-        "data-testid": "list-view-buy-button"
-      },
-      "onclick": null,
-      "selector": "button#buy-button-40bLAHIyfGbKTNSEHeAKZv"
+      "visible": true
     },
     {
+      "class": "tile_button__YTefd btn min-h-0 min-w-0 leading-6 font-bold uppercase [&>*:not(:first-child)]:hidden",
+      "id": "buy-button-3cOtvjyvWemL4qrN0iHztw",
+      "selector": "button#buy-button-3cOtvjyvWemL4qrN0iHztw",
       "tag": "button",
-      "id": "buy-button-1L90KyU3c4VYLGfsZAASBE",
-      "class": [
-        "tile_button__YTefd",
-        "btn",
-        "min-h-0",
-        "min-w-0",
-        "leading-6",
-        "font-bold",
-        "uppercase",
-        "[&>*:not(:first-child)]:hidden"
-      ],
       "text": "",
       "type": "button",
-      "data_attributes": {
-        "data-rum-action-name": "Buy Button",
-        "data-testid": "list-view-buy-button"
-      },
-      "onclick": null,
-      "selector": "button#buy-button-1L90KyU3c4VYLGfsZAASBE"
+      "visible": true
     },
     {
+      "class": "tile_button__YTefd btn min-h-0 min-w-0 leading-6 font-bold uppercase [&>*:not(:first-child)]:hidden",
+      "id": "buy-button-3pL7JBXXzOGO4VLnJGDwUS",
+      "selector": "button#buy-button-3pL7JBXXzOGO4VLnJGDwUS",
       "tag": "button",
-      "id": "buy-button-5Uxds8X15uqSfwqCDI1xVe",
-      "class": [
-        "tile_button__YTefd",
-        "btn",
-        "min-h-0",
-        "min-w-0",
-        "leading-6",
-        "font-bold",
-        "uppercase",
-        "[&>*:not(:first-child)]:hidden"
-      ],
       "text": "",
       "type": "button",
-      "data_attributes": {
-        "data-rum-action-name": "Buy Button",
-        "data-testid": "list-view-buy-button"
-      },
-      "onclick": null,
-      "selector": "button#buy-button-5Uxds8X15uqSfwqCDI1xVe"
+      "visible": true
     },
     {
+      "class": "tile_button__YTefd btn min-h-0 min-w-0 leading-6 font-bold uppercase [&>*:not(:first-child)]:hidden",
+      "id": "buy-button-3Qt0vdqOrCGDop9UA4wERu",
+      "selector": "button#buy-button-3Qt0vdqOrCGDop9UA4wERu",
       "tag": "button",
-      "id": "buy-button-6WtcomAZDGlBzSfPUR5W7X",
-      "class": [
-        "tile_button__YTefd",
-        "btn",
-        "min-h-0",
-        "min-w-0",
-        "leading-6",
-        "font-bold",
-        "uppercase",
-        "[&>*:not(:first-child)]:hidden"
-      ],
       "text": "",
       "type": "button",
-      "data_attributes": {
-        "data-rum-action-name": "Buy Button",
-        "data-testid": "list-view-buy-button"
-      },
-      "onclick": null,
-      "selector": "button#buy-button-6WtcomAZDGlBzSfPUR5W7X"
+      "visible": true
     },
     {
+      "class": "tile_button__YTefd btn min-h-0 min-w-0 leading-6 font-bold uppercase [&>*:not(:first-child)]:hidden",
+      "id": "buy-button-1PEdEiSB8ZKFtu3HUBOX1m",
+      "selector": "button#buy-button-1PEdEiSB8ZKFtu3HUBOX1m",
       "tag": "button",
-      "id": "buy-button-BStmeudr1KyRWM8RnS3nK",
-      "class": [
-        "tile_button__YTefd",
-        "btn",
-        "min-h-0",
-        "min-w-0",
-        "leading-6",
-        "font-bold",
-        "uppercase",
-        "[&>*:not(:first-child)]:hidden"
-      ],
       "text": "",
       "type": "button",
-      "data_attributes": {
-        "data-rum-action-name": "Buy Button",
-        "data-testid": "list-view-buy-button"
-      },
-      "onclick": null,
-      "selector": "button#buy-button-BStmeudr1KyRWM8RnS3nK"
+      "visible": true
     },
     {
+      "class": "tile_button__YTefd btn min-h-0 min-w-0 leading-6 font-bold uppercase [&>*:not(:first-child)]:hidden",
+      "id": "buy-button-7GaRsbOfuZn0MH9zBgryQ",
+      "selector": "button#buy-button-7GaRsbOfuZn0MH9zBgryQ",
       "tag": "button",
-      "id": "buy-button-7fCyhSjoCuVuzfYfDvmWEw",
-      "class": [
-        "tile_button__YTefd",
-        "btn",
-        "min-h-0",
-        "min-w-0",
-        "leading-6",
-        "font-bold",
-        "uppercase",
-        "[&>*:not(:first-child)]:hidden"
-      ],
       "text": "",
       "type": "button",
-      "data_attributes": {
-        "data-rum-action-name": "Buy Button",
-        "data-testid": "list-view-buy-button"
-      },
-      "onclick": null,
-      "selector": "button#buy-button-7fCyhSjoCuVuzfYfDvmWEw"
+      "visible": true
     },
     {
+      "class": "tile_button__YTefd btn min-h-0 min-w-0 leading-6 font-bold uppercase [&>*:not(:first-child)]:hidden",
+      "id": "buy-button-5Y6m2LwZwzmrV5RNxzMntq",
+      "selector": "button#buy-button-5Y6m2LwZwzmrV5RNxzMntq",
       "tag": "button",
-      "id": "buy-button-7nj8V7SavDEdkCKTPcHQmF",
-      "class": [
-        "tile_button__YTefd",
-        "btn",
-        "min-h-0",
-        "min-w-0",
-        "leading-6",
-        "font-bold",
-        "uppercase",
-        "[&>*:not(:first-child)]:hidden"
-      ],
       "text": "",
       "type": "button",
-      "data_attributes": {
-        "data-rum-action-name": "Buy Button",
-        "data-testid": "list-view-buy-button"
-      },
-      "onclick": null,
-      "selector": "button#buy-button-7nj8V7SavDEdkCKTPcHQmF"
+      "visible": true
     }
   ],
   "summary": {
     "button_types": {
       "button": 8
     },
-    "button_ids": [
-      "buy-button-2ydZkhflV6CjExyXSC7aEB",
-      "buy-button-40bLAHIyfGbKTNSEHeAKZv",
-      "buy-button-1L90KyU3c4VYLGfsZAASBE",
-      "buy-button-5Uxds8X15uqSfwqCDI1xVe",
-      "buy-button-6WtcomAZDGlBzSfPUR5W7X",
-      "buy-button-BStmeudr1KyRWM8RnS3nK",
-      "buy-button-7fCyhSjoCuVuzfYfDvmWEw",
-      "buy-button-7nj8V7SavDEdkCKTPcHQmF"
-    ],
-    "button_classes": []
+    "visible_buttons": 8,
+    "hidden_buttons": 0
   }
 }

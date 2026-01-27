@@ -232,7 +232,7 @@ def print_python_code(selectors):
     
     if len(selectors) >= 8:
         final_reward_selector = selectors[7]  # Final Reward is the 8th button (index 7)
-        print(f'FINAL_REWARD_SELECTOR = "{final_reward_selector}"  # replace with the actual Final Reward selector')
+        print(f'FINAL_REWARD_SELECTOR = "{final_reward_selector}"  # replace with the actual Final Reward selector1')
     
     print(f"\n{'='*80}\n")
 
