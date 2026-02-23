@@ -2,7 +2,8 @@ name: Daily Streak Claim (05:00 AM)
 
 on:
   schedule:
-    - cron: '0 21 * * *'  # 21:00 UTC = 05:00 CST next day
+    - cron: '0 21 * * *'   # Every day at 21:00 UTC = 05:00 CST next day
+    - cron: '0 22 * * 1'    # Monday only at 22:00 UTC = 06:00 CST (6:00 AM Monday)
   workflow_dispatch:
 
 jobs:
