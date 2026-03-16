@@ -1,18 +1,18 @@
 # Auto-generated CLAIM_SELECTORS from button scanner
 
 CLAIM_SELECTORS = [
-    "button#buy-button-5MQwoG9VC1RI4MTkjHYX3n",  # D1 CLAIM
-    "button#buy-button-2zb15uuwvV2QkLNSgiYb1s",  # D2 CLAIM
-    "button#buy-button-PL2nfFNmIqzxOqJ2kSC3A",  # D3 CLAIM
-    "button#buy-button-5V2tLmrDpGATNpygTCZNTn",  # D4 CLAIM
-    "button#buy-button-6VV2kiWQw7f38ZKNn9OsXz",  # D5 CLAIM
-    "button#buy-button-4S46DdqqpKbWzxIYrEMqt3",  # D6 CLAIM
-    "button#buy-button-A97dVWtQMCzlf4s5uuZib",  # D7 CLAIM
-    "button#buy-button-6wRnDlbMLKnGvLdVgkAXZb",  # Final Reward CLAIM
+    "button#buy-button-49Viwe0bZQICHhVCvvDxfD",  # D1 CLAIM
+    "button#buy-button-2ESZZIXwjA2cU8CZp5b7Qh",  # D2 CLAIM
+    "button#buy-button-zAz8l6TEDia1IkAmVDzRx",  # D3 CLAIM
+    "button#buy-button-7kqggsbR9DamIfynripG0P",  # D4 CLAIM
+    "button#buy-button-3doripxOb20tk9T4Uh2Ib0",  # D5 CLAIM
+    "button#buy-button-647fe9pjIPYd44Jqiblywa",  # D6 CLAIM
+    "button#buy-button-57xgqbzUcnoA76MPaGOIEO",  # D7 CLAIM
+    "button#buy-button-4UcLmFwtL2D4oYKgRTVXmq",  # Final Reward CLAIM
 ]
 
 # D7 CLAIM selector
-D7_SELECTOR = "button#buy-button-A97dVWtQMCzlf4s5uuZib"
+D7_SELECTOR = "button#buy-button-57xgqbzUcnoA76MPaGOIEO"
 
 # Final Reward CLAIM selector
-FINAL_REWARD_SELECTOR = "button#buy-button-6wRnDlbMLKnGvLdVgkAXZb"
+FINAL_REWARD_SELECTOR = "button#buy-button-4UcLmFwtL2D4oYKgRTVXmq"
