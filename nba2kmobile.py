@@ -14,21 +14,21 @@ PLAYER_IDS = [
 
 # --- AUTO-GENERATED SELECTORS START ---
 CLAIM_SELECTORS = [
-    "button#buy-button-4DmkX9fpkcZ6WTO3VEwbeE",  # D1 CLAIM
-    "button#buy-button-5FvWEmRtg1JrRD1BIUxAM4",  # D2 CLAIM
-    "button#buy-button-7EexbBXb84M5fLsAdnvzuH",  # D3 CLAIM
-    "button#buy-button-77DRXBd7Sa3YN5rYMVEMb7",  # D4 CLAIM
-    "button#buy-button-6uokXGgShCkZuPOU4ZoWYO",  # D5 CLAIM
-    "button#buy-button-1hbomsTlKNAFUNBdk3JrkQ",  # D6 CLAIM
-    "button#buy-button-1ZjeAHDMKK3NHQtHIr3bxS",  # D7 CLAIM
-    "button#buy-button-5OVxvSRbK4GKdhJoFFV4uA",  # Final Reward CLAIM
+    "button#buy-button-EoxOD5Q3hI41CM7xJOLB4",  # D1 CLAIM
+    "button#buy-button-2YUzp12mCfHj8J4Kiig3rH",  # D2 CLAIM
+    "button#buy-button-28jTgcBm2n1pE9YcmXM0wr",  # D3 CLAIM
+    "button#buy-button-dWk2vwI1yeb17ar1cu3qG",  # D4 CLAIM
+    "button#buy-button-6BiaOCiYn8TOpxEHIo0MPJ",  # D5 CLAIM
+    "button#buy-button-3pufSiKMxyRmS78GfSlvaD",  # D6 CLAIM
+    "button#buy-button-3903UByN9KZnjyevk9ENBy",  # D7 CLAIM
+    "button#buy-button-792Ydm5Dr4ErNb7f3qdJjw",  # Final Reward CLAIM
 ]
 
 # D7 CLAIM selector
-D7_SELECTOR = "button#buy-button-1ZjeAHDMKK3NHQtHIr3bxS"
+D7_SELECTOR = "button#buy-button-3903UByN9KZnjyevk9ENBy"
 
 # Final Reward CLAIM selector
-FINAL_REWARD_SELECTOR = "button#buy-button-5OVxvSRbK4GKdhJoFFV4uA"
+FINAL_REWARD_SELECTOR = "button#buy-button-792Ydm5Dr4ErNb7f3qdJjw"
 # --- AUTO-GENERATED SELECTORS END ---
 def create_driver():
     options = webdriver.ChromeOptions()
